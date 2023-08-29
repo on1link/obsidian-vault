@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7cac4095af848f",
+        "id": "013986d8740378e3",
         "type": "tabs",
         "children": [
           {
-            "id": "dc554216d4e6885f",
+            "id": "21257d16aee1fa52",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md"
               }
             }
           },
@@ -173,11 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc554216d4e6885f",
+  "active": "21257d16aee1fa52",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+    "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
     "Design and Build an Input Data Pipeline.md",
     "Vertex AI.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
@@ -192,7 +195,6 @@
     "Machine Learning/Machine Learning Engineer Certification",
     "Machine Learning",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud"
   ]
 }
