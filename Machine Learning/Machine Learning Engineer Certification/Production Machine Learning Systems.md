@@ -1,3 +1,4 @@
+#googleCloudPlatform 
 # Architecting production ML systems
 ## Quiz 
 * What percent of system code does the ML model account for?
@@ -39,4 +40,30 @@
 # Designing High-Performance ML Systems
 ## Quiz
 * If each of your examples is large in terms of size and requires parsing, and your model is relatively simple and shallow, your model is likely to be:
-	* 
+	* I/O bound, so you should look for ways to store data in more efficiently and ways to parallelize the reads.
+		* Correct! Your ML training will be I/O bound if the number of inputs is large or heterogeneous (requires parsing) or if the model is so small that the compute requirements are trivial. This also tends to be the case if the input data is on a storage system with low throughput. If you are I/O bound, look at storing the data more efficiently, storing the data on a storage system with higher throughput, or parallelizing the reads. Although it is not ideal, you might consider reducing the batch size so that you are reading less data in each step.
+* For fastest I/O performance in TensorFlow...
+	* Read in parallel threads.
+		* This is one of the correct answers. dataset = tf.data.TFRecordDataset(files, num_parallel_reads=40) When you're dealing with a large dataset sharded across Cloud Storage, you can speed up by reading multiple files in parallel to increase the effective throughput. You can use this feature with a single option to the TFRecordDataset constructor called num_parallel_reads.
+	* Prefetch the data
+		* This is one of the correct answers. dataset.prefetch decouples the time data is produced from the time it is consumed. It prefetches the data into a buffer in parallel with the training step. This means that we have input data for the next training step before the current one is completed.
+	* Read TF records into your model.
+		* This is one of the correct answers. dataset = tf.data.TFRecordDataset(...) TF Records are set for fast, efficient, batch reads, without the overhead of having to parse the data in Python.
+	* Optimize TensorFlow performance using the Profiler
+* What does high-performance machine learning determine?
+	* Time taken to train a model
+* Which of the following indicates that ML training is CPU bound?
+	* If I/O is simple, but the model involves lots of complex/expensive computations.
+# Hybrid ML Systems
+## Quiz
+* To copy the input data into TensorFlow, which of the following syntaxes is correct?
+	* inferenceInterface.feed(inputName, floatValues, 1, inputSize, inputSize, 3);
+* A key principle behind Kubeflow is portability so that you can:
+	* Move your model from on-premises to Google Cloud.
+		* Portability is at the container level, and you can move to any environment that offers Kubernetes.
+* Which of the following determines the correct property of Tensorflow Lite? 
+	* Lower precision arithmetic
+	* Quantization
+* Which of these are reasons that you may not be able to perform machine learning solely on Google Cloud?
+	* You need to run inference on the edge.
+	* You are tied to on-premises or multi-cloud infrastructure due to business reasons.
