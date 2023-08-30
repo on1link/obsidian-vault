@@ -42,6 +42,16 @@
 ## Quiz
 * Which of the following can make a huge difference in model quality?
 	* Setting hyperparameters to their optimal values for a given dataset.
+* Which of the following is a black-box optimization service?
+	* Vertex Vizier
+* Which of the following algorithms is useful, if you want to specify a quantity of trials that is greater than the number of points in the feasible space?
+	* Grid Search
+* Black box optimization algorithms find the best operating parameters for any system whose _____?
+	* performance can be measured as a function of adjustable parameters.
+* Bayesian optimization takes into account past evaluations when choosing the hyperparameter set to evaluate next. By choosing its parameter combinations in an informed way, it enables itself to focus on those areas of the parameter space that it believes will bring the most promising validation scores. Therefore it ______
+	* limits the number of times a model needs to be trained for validation
+	* requires less iterations to get to the optimal set of hyperparameter values.
+	* enables itself to focus on those areas of the parameter space that it believes will bring the most promising validation scores.
 
 # Prediction and Model Monitoring Using Vertex AI
 ## Quiz
@@ -65,6 +75,17 @@
 	* Drift in data quality
 	* Skew in training vs. serving data
 # Vertex AI Pipelines
+## Quiz 
+* Which package is used to define and interact with pipelines and components
+	* kfp.dsl package
+* What can you use to create a pipeline run on Vertex AI Pipelines?
+	* Vertex AI python client
+* What can you use to compile the pipeline?
+	* kfp.v2.compiler.Compiler
+* How can you define the pipeline's workflow as a grarph?
+	* By using the outputs of a component as an input of another component
+# Quizes
+Enlace: ![[T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf]]
 # Best Practices for ML Development
 # Course Summary
 # Series Summary
