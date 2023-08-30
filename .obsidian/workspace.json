@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef13a814bc9ce9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production Machine Learning Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+                "file": "Production Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+                "file": "Production Machine Learning Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md"
+                "file": "Production Machine Learning Systems.md"
               }
             }
           },
@@ -175,11 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21257d16aee1fa52",
+  "active": "ef13a814bc9ce9f4",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+    "Production Machine Learning Systems.md",
     "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
     "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
     "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
     "Design and Build an Input Data Pipeline.md",
     "Vertex AI.md",
