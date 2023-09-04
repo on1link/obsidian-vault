@@ -16,3 +16,4 @@
 * How does transfer learning deal with the data scarcity problem?
 	* Transfer learning transfers knowledge across tasks so, instead of creating more data, transfer learning decreases the need for data by initializing the parameters with better values.
 		* Transfer learning uses knowledge acquired for one task to solve related tasks.
+# Vertex AI and [[AutoML]] Vision on Vertex AI

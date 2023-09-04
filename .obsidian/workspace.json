@@ -47,9 +47,11 @@
             "id": "0ccaa1351290c241",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Computer Vision.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -211,16 +213,17 @@
   },
   "active": "0ccaa1351290c241",
   "lastOpenFiles": [
+    "Feature Store.md",
+    "Excalidraw/Drawing 2023-09-04 12.18.23.excalidraw.md",
+    "Pasted image 20230828171858.png",
+    "Vertex AI.md",
     "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
     "Computer Vision.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
-    "Vertex AI.md",
     "Untitled 1.canvas",
     "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
     "Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
     "Design and Build an Input Data Pipeline.md",
-    "Feature Store.md",
-    "Pasted image 20230828171858.png",
     "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
     "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
