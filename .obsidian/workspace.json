@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,14 +211,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ccaa1351290c241",
+  "active": "be828fac5d093c9d",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+    "Computer Vision.md",
     "Feature Store.md",
     "Excalidraw/Drawing 2023-09-04 12.18.23.excalidraw.md",
     "Pasted image 20230828171858.png",
     "Vertex AI.md",
     "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-    "Computer Vision.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
     "Untitled 1.canvas",
     "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
@@ -226,7 +227,6 @@
     "Design and Build an Input Data Pipeline.md",
     "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
     "Machine Learning/Keras.md",
