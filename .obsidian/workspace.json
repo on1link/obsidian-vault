@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ccaa1351290c241",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,7 +209,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be828fac5d093c9d",
+  "active": "0ccaa1351290c241",
   "lastOpenFiles": [
     "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
     "Computer Vision.md",
