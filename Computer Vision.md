@@ -16,7 +16,8 @@
 		* If the ML models is trained with high resolution photos with high color depth, there will be performance issues and an increase in input size with longer training time for the ML model
 	* It will increase the input size with longer training time for an ML models
 		* If the ML model is trained wiht high resolution photos with high color depth, there will be performance issues and an increase in input size with longer training time for the ML model
-# Extracting Text from the Images using the Google Cloud Vision API
+
+# Vertex AI and [[AutoML]] Vision on Vertex AI
 ## Quiz
 * What does Vertex AI offer to achieve your ML goals?
 	* Fast experimentation, accelerated deployment, and simplified model management
@@ -31,8 +32,18 @@
 * What method do you use to create and train a model with minimal technical effort to quickly prototype models and explore new datasets before investing in development?
 	* [[AutoML]]
 		* AutoML lets you create and train a model with minimal technical effort. Even if you want the flexibility of a custom training application, you can use AutoML to quickly prototype models and explore new datasets before investing in development.
-# Vertex AI and [[AutoML]] Vision on Vertex AI
+
+# Custom Training with Linear, Neural Network and Deep Neural Network models
 ## Quiz
+* What does the loss function do?
+	* The loss function measures how accurate the model is during training.
+		* The loss function is a measure of how accurately your prediction model predicts the expected outcome (or value)
+* When can a sequential model be used?
+	* A sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor
+		* A sequential model is not appropriate when the model has multiple inputs or multiple outputs.
+* What function can be used for a model to do prediction?
+	* model.predict()
+		* 
 # Dealing with image Data
 ## Quiz
 * What is the proportion of the number of parameters in the entire network (CNN) while computing?
