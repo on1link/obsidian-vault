@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
-                "mode": "source",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing on Google Cloud.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing on Google Cloud.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language Processing on Google Cloud.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language Processing on Google Cloud.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md"
               }
             }
           },
@@ -223,13 +223,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1474f1cc4ebe1e2",
+  "active": "be828fac5d093c9d",
   "lastOpenFiles": [
-    "Natural Language Processing on Google Cloud.md",
     "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
+    "one-hot encoding.md",
+    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
     "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
     "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",

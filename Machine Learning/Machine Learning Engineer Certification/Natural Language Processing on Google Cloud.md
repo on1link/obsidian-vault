@@ -24,6 +24,7 @@
 # Text representation
 ## Quiz
 * Which of the following is correct about [[one-hot encoding]] when you represent text with basic vectorization?
+	* [[one-hot encoding#^60dc84 ]]
 	* 
 # NLP models
 # Advanced NLP models
