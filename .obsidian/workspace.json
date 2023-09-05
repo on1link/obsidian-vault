@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
+                "file": "one-hot encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
+                "file": "one-hot encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
+                "file": "one-hot encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md"
+                "file": "one-hot encoding.md"
               }
             }
           },
@@ -235,10 +235,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b0651aa1edccbc3",
+  "active": "dd179c6386d8ce88",
   "lastOpenFiles": [
-    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
+    "Pasted image 20230828171858.png",
+    "README.md",
+    "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
+    "Untitled 1.canvas",
+    "Statistics",
+    "Statistics/Statistical Models",
     "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
     "Machine Learning/Deep Learrning",
     "Machine Learning/Deep Learrning/LSTM.md",
     "Machine Learning/Deep Learrning/RNN.md",
@@ -255,10 +261,6 @@
     "Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
     "Design and Build an Input Data Pipeline.md",
     "Feature Store.md",
-    "Pasted image 20230828171858.png",
-    "README.md",
-    "Untitled 1.canvas",
-    "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
     "Machine Learning/Machine Learning Engineer Certification/Vertex AI.md",
     "Excalidraw/Drawing 2023-09-04 12.18.23.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
