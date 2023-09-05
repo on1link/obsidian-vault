@@ -1,3 +1,4 @@
+#googleCloudPlatform 
 # Understanding the ML Enterprise Workflow
 ## Quiz
 * Which process covers algorithm selection, model training, hyperparameter tuning, and model evaluation in the Experimentation and Prototyping activity?
