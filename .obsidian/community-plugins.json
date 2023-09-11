@@ -3,5 +3,6 @@
   "dataview",
   "table-editor-obsidian",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-to-anki-plugin"
 ]
