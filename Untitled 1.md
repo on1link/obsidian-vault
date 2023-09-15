@@ -1,9 +1,9 @@
 ID LAT **
+Friday Fight
+Doblar ropa
+Naranjas
 Curauma
 Jumbo
-Naranjas
-Testing
 WS Tutor
-Doblar ropa
-Lavar ropa
-Friday Fight
+Testing
+
