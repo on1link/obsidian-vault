@@ -1,9 +1,6 @@
-ID LAT **
-Friday Fight
+Hotel
+Pasajes
 Doblar ropa
-Naranjas
-Curauma
-Jumbo
 WS Tutor
 Testing
 
