@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Machine Learning/Deep Learrning/LSTM.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Machine Learning/Deep Learrning/LSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Machine Learning/Deep Learrning/LSTM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Machine Learning/Deep Learrning/LSTM.md"
               }
             }
           },
@@ -289,8 +289,15 @@
   },
   "active": "3c40e337a4336313",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+    "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
+    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
+    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+    "Machine Learning/Deep Learrning/RNN.md",
+    "Machine Learning/Deep Learrning/LSTM.md",
+    "Machine Learning/Deep Learrning/BERT.md",
     "Untitled 1.md",
+    "Untitled.md",
     "2023-08-28.md",
     "Untitled",
     "Feature Store.md",
@@ -303,16 +310,9 @@
     "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
     "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
     "Machine Learning/Deep Learrning",
-    "Machine Learning/Deep Learrning/LSTM.md",
-    "Machine Learning/Deep Learrning/RNN.md",
-    "Machine Learning/Deep Learrning/BERT.md",
     "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
     "one-hot encoding.md",
-    "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
     "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
-    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
     "Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
     "Design and Build an Input Data Pipeline.md",
