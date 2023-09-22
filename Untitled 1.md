@@ -1,6 +1,6 @@
 Pasajes
 WS Tutor
 Testing
-Config ini
+Config ini *
 Doblar ropa
 Write Resume in English
