@@ -1,6 +1,10 @@
 
 # Cronograma de estudio
-# Estructura de la prueba
+# Sobre la prueba
+Duración: 2 horas
+Formato: Selección multiple, alternativas multiples
+Prerequisitos: Ninguno
+Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 años diseñando y gestionando soluciones usando GCP
 # Contenido
 ## ML Problem Framing
 * Translate business challenge into ML use case.
@@ -14,5 +18,25 @@
 * Choose appropriate Google Cloud software components
 * Choose appropriate Google Cloud hardware components.
 * Design architecture that complies with regulatory and security concerns.
-* 
+# Preparation and Processing
+* Data ingestion
+* Data exploration (EDA)
+* Design data pipelines
+* Build data pipelines
+* Feature engineering
+# Model Development
+* Build a model
+* Train a model
+* Test a model
+* Scale model training and serving
+# ML Pipeline Automation &  Orchestration
+* Design Pipeline
+* Implement training pipeline
+* Implement serving pipeline
+* Track and audit metadata.
+* Use CI/CD to test and deploy models
+# ML Solution Monitoring, Optimization, and Maintenance
+* Monitor ML solutions
+* Troubleshoot ML solutions.
+* Tune performance of ML solutions for training & serving in production
 # Requisitos
