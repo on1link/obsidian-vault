@@ -39,4 +39,11 @@ Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 
 * Monitor ML solutions
 * Troubleshoot ML solutions.
 * Tune performance of ML solutions for training & serving in production
-# Requisitos
+# Tips
+* Recordar las mejores prácticas recomendadas por Google
+* Manejar las preguntas más difíciles descartando las alternativas incorrectas más obvias .
+* No hay una penalización por respuestas equivocadas, no hay que dejar nada en blanco, hacer la mejor conjetura posible. 
+# Cursos
+* ### How Google Does Machine Learning
+* ### Launching into Machine Learning
+*

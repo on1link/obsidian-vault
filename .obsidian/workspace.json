@@ -4,133 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "013986d8740378e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21257d16aee1fa52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef13a814bc9ce9f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be828fac5d093c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd179c6386d8ce88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "one-hot encoding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1a9eb0b0bba13a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-08-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0ee66b6f6976cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1474f1cc4ebe1e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ccaa1351290c241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
         "id": "136541f9d11c0daf",
         "type": "tabs",
         "children": [
           {
-            "id": "3c40e337a4336313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c8b65dc3b1be39a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bb369102427f779",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Resumen.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -201,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resumen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -300,12 +187,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c8b65dc3b1be39a",
+  "active": "4bb369102427f779",
   "lastOpenFiles": [
+    "Machine Learning/Keras.md",
+    "Machine Learning/one-hot encoding.md",
+    "2023-08-28.md",
+    "Pasted image 20230828171858.png",
+    "Machine Learning/Machine Learning Engineer Certification/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
+    "README.md",
+    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
+    "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Untitled 1.md",
-    "Resumen.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test",
+    "Untitled.canvas",
     "Untitled.md",
+    "2023-09-29.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test",
     "Machine Learning/Deep Learrning/LSTM.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
     "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
@@ -313,12 +211,7 @@
     "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Deep Learrning/RNN.md",
     "Machine Learning/Deep Learrning/BERT.md",
-    "2023-08-28.md",
     "Untitled",
-    "Feature Store.md",
-    "README.md",
-    "Pasted image 20230828171858.png",
-    "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
     "Untitled 1.canvas",
     "Statistics",
     "Statistics/Statistical Models",
@@ -326,19 +219,13 @@
     "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
     "Machine Learning/Deep Learrning",
     "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-    "one-hot encoding.md",
     "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
-    "Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
-    "Design and Build an Input Data Pipeline.md",
     "Machine Learning/Machine Learning Engineer Certification/Vertex AI.md",
     "Excalidraw/Drawing 2023-09-04 12.18.23.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
-    "Machine Learning/Keras.md",
-    "Machine Learning Engineer Certification.md",
     "Machine Learning/Machine Learning Engineer Certification",
     "Machine Learning",
-    "Untitled.canvas",
     "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud"
   ]
 }
