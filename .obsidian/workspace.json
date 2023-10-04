@@ -19,10 +19,8 @@
             "id": "4bb369102427f779",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -189,12 +187,12 @@
   },
   "active": "4bb369102427f779",
   "lastOpenFiles": [
+    "README.md",
     "Machine Learning/Keras.md",
     "Machine Learning/one-hot encoding.md",
     "2023-08-28.md",
     "Pasted image 20230828171858.png",
     "Machine Learning/Machine Learning Engineer Certification/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
-    "README.md",
     "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
     "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
     "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
