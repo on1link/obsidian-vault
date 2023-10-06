@@ -4,27 +4,19 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#googleCloudPlatform  ",
-      "color": {
-        "a": 1,
-        "rgb": 5408992
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.61370442708333,
-  "lineSizeMultiplier": 5,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 1.65677083333333,
   "collapse-forces": false,
-  "centerStrength": 0.491251627604167,
-  "repelStrength": 9.88850911458333,
-  "linkStrength": 0.801717122395833,
-  "linkDistance": 132,
-  "scale": 1.2922817434130587,
-  "close": true
+  "centerStrength": 0.802083333333333,
+  "repelStrength": 15,
+  "linkStrength": 1,
+  "linkDistance": 368,
+  "scale": 0.8206643452120157,
+  "close": false
 }
