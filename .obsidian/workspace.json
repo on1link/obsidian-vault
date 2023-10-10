@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Learning More effectevly.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 524.5
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Learning More effectevly.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Learning More effectevly.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Learning More effectevly.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md"
               }
             }
           },
@@ -203,6 +203,26 @@
   },
   "active": "35c821c6e00039a6",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Engineer Certification/Vertex AI.md",
+    "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+    "Machine Learning/Machine Learning Engineer Certification/Perform Foundational Data, ML, and AI Tasks in Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) with Vertex AI -  Manage Features.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
+    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
+    "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
+    "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
+    "Machine Learning/Machine Learning Engineer Certification/Build and Deploy Machine Learning Solutions on Vertex AI.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise",
+    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/Machine Learning in the Enterprise.md",
     "Untitled/Learning More effectevly.md",
     "Misc",
     "README.md",
@@ -210,37 +230,18 @@
     "Machine Learning/one-hot encoding.md",
     "2023-08-28.md",
     "Pasted image 20230828171858.png",
-    "Machine Learning/Machine Learning Engineer Certification/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
-    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
-    "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Untitled 1.md",
     "Untitled.canvas",
     "2023-09-29.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test",
     "Machine Learning/Deep Learrning/LSTM.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
-    "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
-    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Deep Learrning/RNN.md",
-    "Machine Learning/Deep Learrning/BERT.md",
     "Untitled",
     "Untitled 1.canvas",
     "Statistics",
     "Statistics/Statistical Models",
-    "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
     "Machine Learning/Deep Learrning",
-    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
-    "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
-    "Machine Learning/Machine Learning Engineer Certification/Vertex AI.md",
-    "Excalidraw/Drawing 2023-09-04 12.18.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 15.12.10.excalidraw.md",
     "Machine Learning/Machine Learning Engineer Certification",
-    "Machine Learning",
-    "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud"
+    "Machine Learning"
   ]
 }

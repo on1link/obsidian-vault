@@ -1,9 +1,27 @@
 
 # Cronograma de estudio
+
+3 months at 12 hours a week
+# MLOPS
+
+## Viernes 06-10 - Viernes 13-10
+### [[ Machine Learning Operations (MLOps) Getting Started]]
+### [[Machine Learning Operations (MLOps) with Vertex AI -  Manage Features]]
+### [[ML Pipelines on Google Cloud]] 
+## Viernes 13-10 - Viernes 20-10
+
+[[## ML Pipelines on Google Cloud]] (Rezago)
+### [[Perform Foundational Data, ML, and AI Tasks in Google Cloud]]
+### [[Build and Deploy Machine Learning Solutions on Vertex AI]]
+
+### Miércoles 25-10 - Viernes 10-11
+
+14 - 15 Rezagados
+
 # Sobre la prueba
 Duración: 2 horas
 Formato: Selección multiple, alternativas multiples
-Prerequisitos: Ninguno
+Pre-requisitos: Ninguno
 Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 años diseñando y gestionando soluciones usando GCP
 # Contenido
 ## ML Problem Framing
@@ -46,4 +64,6 @@ Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 
 # Cursos
 * ### How Google Does Machine Learning
 * ### Launching into Machine Learning
-*
+
+
+(Se pueden hacer los quizes y los labs hacerlos )
