@@ -62,6 +62,12 @@ Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 
 * Manejar las preguntas más difíciles descartando las alternativas incorrectas más obvias .
 * No hay una penalización por respuestas equivocadas, no hay que dejar nada en blanco, hacer la mejor conjetura posible. 
 # Cursos
+In the first series of courses called Machine learning on Google Cloud, you learn about how ML on GC can make tasks **better**, **faster**, and **easier**
+The second series of coursers, Advanced Machine Learning on Google Cloud, focused on more wide-ranging machine learning applications
+	* [[Computer Vision on Google Cloud]]
+	* [[Natural Language Processing]]
+	* [[Recommendation Systems]]
+The last series courses its all about [[Machine Learning Operations (MLOps)]] and focuses on **machine learning models from an operational perspective**
 * ### How Google Does Machine Learning
 * ### Launching into Machine Learning
 

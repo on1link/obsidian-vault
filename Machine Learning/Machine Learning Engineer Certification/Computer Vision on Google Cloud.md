@@ -17,7 +17,7 @@
 	* It will increase the input size with longer training time for an ML models
 		* If the ML model is trained wiht high resolution photos with high color depth, there will be performance issues and an increase in input size with longer training time for the ML model
 
-# Vertex AI and [[AutoML]] Vision on Vertex AI
+# [[Vertex AI]] and [[AutoML]] Vision on Vertex AI
 ## Quiz
 * What does Vertex AI offer to achieve your ML goals?
 	* Fast experimentation, accelerated deployment, and simplified model management
@@ -33,7 +33,7 @@
 	* [[AutoML]]
 		* AutoML lets you create and train a model with minimal technical effort. Even if you want the flexibility of a custom training application, you can use AutoML to quickly prototype models and explore new datasets before investing in development.
 
-# Custom Training with Linear, Neural Network and Deep Neural Network models
+# [[Custom Training]] with Linear, Neural Network and Deep Neural Network models
 ## Quiz
 * What does the loss function do?
 	* The loss function measures how accurate the model is during training.
