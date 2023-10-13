@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "665b9a3775c6da7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ccaa1351290c241",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,12 +88,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8e7d5a331b6ce8a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "4e0a1d40472dc20a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,20 +120,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8e7d5a331b6ce8a2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -145,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -205,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "665b9a3775c6da7a",
+  "active": "52a0582b54136120",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "conflict-files-obsidian-git.md",
     "Misc/Learning More effectevly.md",
     "Misc",
@@ -227,7 +211,6 @@
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Untitled/Learning More effectevly.md",
     "Untitled",
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
     "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
     "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
