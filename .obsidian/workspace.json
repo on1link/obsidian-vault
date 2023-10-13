@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability Distribution.md",
+                "file": "Machine Learning/Algoritmo de Aprendizaje.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability Distribution.md",
+                "file": "Machine Learning/Algoritmo de Aprendizaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Probability Distribution.md",
+                "file": "Machine Learning/Algoritmo de Aprendizaje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Probability Distribution.md"
+                "file": "Machine Learning/Algoritmo de Aprendizaje.md"
               }
             }
           },
@@ -186,11 +186,21 @@
   },
   "active": "52a0582b54136120",
   "lastOpenFiles": [
+    "Machine Learning/Keras.md",
+    "Machine Learning/one-hot encoding.md",
+    "Machine Learning/Deep Learrning/LSTM.md",
+    "All Reading - MLOps - Getting Started.pdf",
+    "Machine Learning/Deep Learrning/Artificial Neural Networks.md",
+    "Machine Learning/Deep Learrning/RNN.md",
+    "Machine Learning/Deep Learrning/GRU.md",
+    "Machine Learning/Deep Learrning/BERT.md",
+    "Machine Learning/Deep Learrning/Attention Mechanism.md",
+    "Roam/Turing/Research Methodology.md",
+    "Statistics/Probability Distribution.md",
     "Statistics/Binomial Distribution.md",
     "Statistics/Descriptive Statistics.md",
     "Roam/Turing/Significance Tests.md",
     "Statistics/Inferential statistics.md",
-    "Statistics/Probability Distribution.md",
     "Roam/Turing/2022-07-07.md",
     "Roam/Turing/2022-07-06.md",
     "Roam/Turing/2022-02-08.md",
@@ -203,20 +213,10 @@
     "Roam/Turing/2021-07-14.md",
     "Roam/Turing/2021-05-15.md",
     "Roam/Turing/2021-05-02.md",
-    "Roam/Turing/2021-05-18.md",
-    "Roam/Turing/2021-05-01.md",
-    "Roam/Turing/2021-07-06.md",
-    "Roam/Turing/2020-07-04.md",
-    "Roam/Turing/2020-07-05.md",
-    "Roam/Turing/2020-07-03.md",
-    "Roam/Turing/2020-07-06.md",
-    "Roam/Turing/2020-07-01.md",
-    "Roam/Turing/2020-05-23.md",
     "Statistics",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230828171858.png",
-    "All Reading - MLOps - Getting Started.pdf",
     "Roam/Turing/A",
     "Roam/Turing/Selección",
     "Roam/Turing/Attachments/imgs/app/Turing/Oi4cwT0lKz.png",

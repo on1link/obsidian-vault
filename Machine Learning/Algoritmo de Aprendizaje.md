@@ -1,9 +1,8 @@
   * **Definiciones**
-    * Sea $$X$$ el espacio de características, e $$Y$$ el espacio de salida.
-    * Nuestra meta es tener un mapeo $$f: X \rightarrow Y$$, llamada comunmente la **hipotesis** o ***learner***, $$X \subseteq R^n$$, $$ y \in Y \subseteq R$$.
-    * Sea $$S$$ el espacio que abarca las posibles muestras, traídas desde una distribución desconocida $$P(\boldsymbol{x}, y)$$.
-    * Un **Algoritmo de aprendizaje** es el mapeo desde el espacio de conjuntos de entrenamiento al espacio de hipótesis $$H$$ de posibles soluciones funcionales.
-    * $$ A: S\rightarrow H \\ S_M \rightarrow A(S_M) = f$$
+    * Sea $X$ el espacio de características, e $Y$ el espacio de salida.
+    * Nuestra meta es tener un mapeo $f: X \rightarrow Y$, llamada comunmente la **hipótesis** o ***learner***, $X \subseteq R^n$, $y \in Y \subseteq R$.
+    * Sea $S$ el espacio que abarca las posibles muestras, traídas desde una distribución desconocida $P(\boldsymbol{x}, y)$.
+    * Un **Algoritmo de aprendizaje** es el mapeo desde el espacio de conjuntos de entrenamiento al espacio de hipótesis $H$ de posibles soluciones funcionales. $A: S\rightarrow H \\ S_M \rightarrow A(S_M) = f$
   * **Capacidad de generalización**
     * Un desafío principal es construir un algoritmo ó método automático capaz de estimar ejemplos futuros basado en los fenómenos observados en el conjunto de entrenamiento.
   * **Overfitting**
