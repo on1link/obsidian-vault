@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Algoritmo de Aprendizaje.md",
+                "file": "Statistics/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "random variable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,11 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Algoritmo de Aprendizaje.md",
+                "file": "Statistics/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Algoritmo de Aprendizaje.md",
+                "file": "Statistics/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Algoritmo de Aprendizaje.md"
+                "file": "Statistics/Binomial Distribution.md"
               }
             }
           },
@@ -184,17 +185,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "52a0582b54136120",
+  "active": "1920a06a733198c7",
   "lastOpenFiles": [
-    "Machine Learning/Keras.md",
-    "Machine Learning/one-hot encoding.md",
+    "Misc/Definiciones.md",
+    "Misc/Learning More effectevly.md",
     "Machine Learning/Deep Learrning/LSTM.md",
-    "All Reading - MLOps - Getting Started.pdf",
-    "Machine Learning/Deep Learrning/Artificial Neural Networks.md",
-    "Machine Learning/Deep Learrning/RNN.md",
     "Machine Learning/Deep Learrning/GRU.md",
-    "Machine Learning/Deep Learrning/BERT.md",
+    "Machine Learning/Deep Learrning/RNN.md",
+    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
+    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+    "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
     "Machine Learning/Deep Learrning/Attention Mechanism.md",
+    "Roam/Turing/RNN.md",
+    "Machine Learning/Deep Learrning/Artificial Neural Networks.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+    "Machine Learning/Keras.md",
+    "All Reading - MLOps - Getting Started.pdf",
+    "Machine Learning/Algoritmo de Aprendizaje.md",
+    "Machine Learning/one-hot encoding.md",
+    "Machine Learning/Deep Learrning/BERT.md",
     "Roam/Turing/Research Methodology.md",
     "Statistics/Probability Distribution.md",
     "Statistics/Binomial Distribution.md",
@@ -203,16 +214,6 @@
     "Statistics/Inferential statistics.md",
     "Roam/Turing/2022-07-07.md",
     "Roam/Turing/2022-07-06.md",
-    "Roam/Turing/2022-02-08.md",
-    "Roam/Turing/2022-02-07.md",
-    "Roam/Turing/2022-08-08.md",
-    "Roam/Turing/2021-08-04.md",
-    "Roam/Turing/2021-08-30.md",
-    "Roam/Turing/2021-08-19.md",
-    "Roam/Turing/2021-08-05.md",
-    "Roam/Turing/2021-07-14.md",
-    "Roam/Turing/2021-05-15.md",
-    "Roam/Turing/2021-05-02.md",
     "Statistics",
     "Untitled 1.canvas",
     "Untitled.canvas",
