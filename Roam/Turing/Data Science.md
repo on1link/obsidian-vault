@@ -1,0 +1,26 @@
+  * Data science, es un nuevo campo transdisciplinario que se construye y sintetiza en un número de disciplinas relevantes y cuerpos de conocimiento, estudiando los datos siguiendo un "pensamiento de ciencia de datos" ([[Cao2017]]). 
+  * En palabras propias es la propia evolución desde el análisis de datos a través del desarrollo o evolución e implementación de nuevas tecnologías que permiten aprovechar todas las ventajas del desarrollo computacional actual.
+  * En un alto nivel, *data science*  es un conjunto de principios fundamentales que apoyan y guían la extracción de principios de la información y el conocimiento de los datos. El concepto más cercano a *data science* es *data mining* - la extracción real de conocimiento de los datos a través de tecnologías que incorporan estos principios.  Pero *data science* involucra más que solo algoritmos de *data mining*. ** Los *Data scientists* exitosos deben ser capaces de mirar los problemas de negocios desde una perspectiva de los datos**. Una perspectiva de *data science* provee estructura y principios, los cuales dan un marco de trabajo para tratar de manera sistemática los problemas de extracción de conocimiento útil de los datos [[Provos2013]].
+  * **Problemática y perspectivas**
+    * Los problemas de *Data Science* requieren un pensamiento sistemático, metodologías, y aproximaciones que ayuden a estimular el desarrollo de máquinas inteligentes.
+    * **El objetivo principal de *Data Science*** es la exploración de las complejidades inherentemente atrapadas en los datos, negocios, y sistemas de resolución de problemas.
+    * Los problemas de *Data Science* son tratados como sistemas complejos que involucran complejidades de sistemas integrales, en términos de los datos, del comportamiento, del dominio y de factores sociales, ambientales (contexto), de aprendizaje (proceso y sistema), y sus derivaciones. [[Cao2017]]
+    * Diferentes tipos y niveles de problemas analíticos afectan la base de conocimiento existente, especialmente desafiados por los problemas en datos y entornos complejos. 
+      * **El desafío extremo** de *Data Science*, **busca descubrir y entregar conocimiento complejo en datos complejos**, tomando en cuenta comportamientos complejos en un entorno complejo **para alcanzar perspectivas accionables** que informarán y permitirán **toma de decisiones en problemas de negocios **complejos que no pueden ser manejados por otros métodos. [[Cao2016]]
+    * **Desde la perspectiva disciplinaria**
+      * *Data Science* es un nuevo campo interdisciplinario que sintetiza y construye sobre las estadísticas, la informática, la computación, la comunicación, la administración, y la sociología para estudiar los datos y sus entornos (incluyendo dominios y otros aspectos contextuales, tales como organizacionales y sociales) para transformar los datos en ideas y decisiones siguiendo un pensamiento y metodología de **datos a conocimiento, de conocimiento a sabiduría**. 
+      * En consecuencia, una formula de *Data Science* basado en la disciplina vendría dada como:
+        * *data_science = estadisticas + informatica +computacion + administracion+comunicacion+ sociologia | datos+ entorno + pensamiento*
+        * Donde $$|$$ significa "condicional a". [[Cao2017b]]
+    * **Desde la perspectiva del proceso**
+      * *Data Science* es un enfoque sistemático de "pensar con sabiduría", **"entender el dominio"**, "administrar los datos", "computar con los datos", "minar sobre el conocimiento", **"comunicarse con los *stakeholders*"**, y **"actuar sobre conocimiento"**. [[Cao2016]]
+  * **Principales consideraciones éticas en *Data Science*: Veracidad de los datos, privacidad y seguridad**
+    * Una de las tareas de *Data Science* involucra los problemas sociales asociados a los contextos sociales tales como la privacidad, la seguridad, entre otros.
+    * **Veracidad de los datos**
+      * Se refiere a la creencia, en la confiabilidad, veracidad, o habilidad de los datos para alcanzar metas relevantes. Esto involucra el desarrollo de tecnología apropiada, normas sociales, reglas éticas, o legislaciones que aseguren, midan, y protejan la confianza en los datos usados y la confianza en los resultados correspondientes y evaluación analítica.
+    * **Privacidad de los datos**
+      * Ésta abarca el desafío de recolectar, analizar, diseminar, y compartir los datos y analítica, mientras que protege la información de identificación personal u otra información sensible y analítica de la divulgación incorrecta.
+      * Tecnologías de protección, regulación, y políticas son necesarias para una protección balanceada y divulgación apropiada en el proceso de manipular los datos.
+    * **Seguridad**
+      * Ésta protege los objetos de destino tanto de fuerzas destructivas como de acciones no autorizadas, tales como el uso o divulgación inapropiados. 
+      * No solamente se aborda problemas de privacidad sino también aspectos más allá de ésta, tales como respaldo y recuperación de software y hardware. También trata el desarrollo de políticas de regulación o mecanismos legales y sistemas que abordan tales problemas. [[Cao2016]]

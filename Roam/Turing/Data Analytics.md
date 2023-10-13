@@ -1,0 +1,5 @@
+  * Se refiere a las teorías, tecnologías, herramientas, y procesos que permiten las comprensión profunda y el descubrimiento de información procesable sobre los datos.
+  * *Data analytics* consiste en analítica descriptiva, analítica predictiva, y analítica prescriptiva [[Cao2017b]]
+  * El desarrollo del *data mining*, *knowloedge discovery*, y *machine learning*, junto con el análisis de datos "original?" y la analítica descriptiva desde la perspectiva estadística, forman el concepto general de *data analytics*. 
+  * Data analytics es la ciencia multidisciplinaria de examinar los datos de manera cuantitativamente y cualitativamente con el propósito de sacar nuevas conclusiones o perspectivas, o para extraer y proveer hipótesis sobre la información para toma de decisiones y acción
+  * Análisis analíticos tanto específicos de dominio como de datos y análisis de datos teóricos, han formado juntos la piedra angular del [[Data Science]] [[Cao2017b]]

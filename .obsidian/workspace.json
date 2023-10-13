@@ -11,17 +11,9 @@
             "id": "52a0582b54136120",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ccaa1351290c241",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+                "file": "Statistics/Probability Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 553.5
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -104,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Probability Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistics/Probability Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistics/Probability Distribution.md"
+              }
             }
           },
           {
@@ -168,12 +164,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,51 +180,59 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "52a0582b54136120",
   "lastOpenFiles": [
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
-    "conflict-files-obsidian-git.md",
-    "Misc/Learning More effectevly.md",
-    "Misc",
-    "Machine Learning/Machine Learning Engineer Certification/Perform Foundational Data, ML, and AI Tasks in Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/Machine Learning in the Enterprise.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) with Vertex AI -  Manage Features.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/Computer Vision on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/Build and Deploy Machine Learning Solutions on Vertex AI.md",
-    "Machine Learning Operations (MLOps).md",
-    "All Reading - MLOps - Getting Started.pdf",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
-    "2023-10-06.md",
+    "Statistics/Binomial Distribution.md",
+    "Statistics/Descriptive Statistics.md",
+    "Roam/Turing/Significance Tests.md",
+    "Statistics/Inferential statistics.md",
+    "Statistics/Probability Distribution.md",
+    "Roam/Turing/2022-07-07.md",
+    "Roam/Turing/2022-07-06.md",
+    "Roam/Turing/2022-02-08.md",
+    "Roam/Turing/2022-02-07.md",
+    "Roam/Turing/2022-08-08.md",
+    "Roam/Turing/2021-08-04.md",
+    "Roam/Turing/2021-08-30.md",
+    "Roam/Turing/2021-08-19.md",
+    "Roam/Turing/2021-08-05.md",
+    "Roam/Turing/2021-07-14.md",
+    "Roam/Turing/2021-05-15.md",
+    "Roam/Turing/2021-05-02.md",
+    "Roam/Turing/2021-05-18.md",
+    "Roam/Turing/2021-05-01.md",
+    "Roam/Turing/2021-07-06.md",
+    "Roam/Turing/2020-07-04.md",
+    "Roam/Turing/2020-07-05.md",
+    "Roam/Turing/2020-07-03.md",
+    "Roam/Turing/2020-07-06.md",
+    "Roam/Turing/2020-07-01.md",
+    "Roam/Turing/2020-05-23.md",
+    "Statistics",
     "Untitled 1.canvas",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
-    "Untitled/Learning More effectevly.md",
-    "Untitled",
-    "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
-    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-    "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
     "Untitled.canvas",
-    "Machine Learning/Machine Learning Engineer Certification/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
-    "Machine Learning/one-hot encoding.md",
-    "Machine Learning/Machine Learning Engineer Certification/Vertex AI.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
-    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
-    "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test",
-    "Machine Learning/Deep Learrning/RNN.md",
-    "Machine Learning/Deep Learrning/LSTM.md",
-    "Machine Learning/Deep Learrning",
     "Pasted image 20230828171858.png",
-    "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
-    "Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
-    "Machine Learning/Machine Learning Engineer Certification"
+    "All Reading - MLOps - Getting Started.pdf",
+    "Roam/Turing/A",
+    "Roam/Turing/Selección",
+    "Roam/Turing/Attachments/imgs/app/Turing/Oi4cwT0lKz.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/PrhcpoVp3s.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/zeV2j6gTxJ.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/Mwi0mLe6zA.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/pLqCEBx72e.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/22ciiCez7k.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/72dly9F9so.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/jM__98EnXt.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/DYdERBBsKN.png",
+    "Roam/Turing/Attachments/imgs/app/Turing",
+    "Roam/Turing/Attachments/imgs/app",
+    "Roam/Turing/Attachments/imgs",
+    "Roam/Turing/Attachments",
+    "Roam/Turing",
+    "Roam"
   ]
 }
