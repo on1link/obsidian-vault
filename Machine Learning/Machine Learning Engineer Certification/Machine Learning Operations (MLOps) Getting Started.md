@@ -32,13 +32,25 @@ The concept of Machine Learning Operations and the considerations behind it
 Why: To shorten the development lifecycle of systems and ensure that high quality software is continuously developed, delivered, and maintained in production
 ## Machine Learning (ML) practitioners' pain points
 Practitioners:
-	
+	ML practitioner is used to describe all these different roles throughout the ML lifecycle
 Paint point from ML practitioners
 * Keeping track of different versions
-	* Data, model architectures, hyperparamenters experiments,
+	* Models and code
+	* Data, model architectures
 * Controlling the experiment space
-* Pinpointing the best-performing model
+	* Different training procedure parameters
+	* Hyperparameter values in each trial
+	* Performance metrics control
+	*  Changes being made
+	* Ideas are being tried
+		* Which work and which don't
+* Pin-pointing the best-performing model
+		The best model here refers to the one that delivers the ideal result for the specific use case.
+		
 * Collaborating
+	* With Data Scientist, Data Engineers, ML Engineers, App Devs, site reliability engineers, business analysts and business users in operationalizing the ML models.
+
+* There is the matter of reprodu
 ## The concept of devOps in ML
 ## ML lifecycle
 

@@ -71,5 +71,6 @@ The last series courses its all about [[Machine Learning Operations (MLOps)]] an
 * ### How Google Does Machine Learning
 * ### Launching into Machine Learning
 
+# Enlaces de interés
 
-(Se pueden hacer los quizes y los labs hacerlos )
+ [Preguntas examen MLE](https://www.examtopics.com/exams/google/professional-machine-learning-engineer/)
