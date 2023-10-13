@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "e22a586fba9d9f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "013986d8740378e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a0582b54136120",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "665b9a3775c6da7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ccaa1351290c241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5424798442d2a9ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2011ace61810ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0651aa1edccbc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1920a06a733198c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06a6163062eb47d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5efaff7fe624f53f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7615f5be5ab2e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0a1d40472dc20a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e6532d6cb483cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e7d5a331b6ce8a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a11487c81a61a10f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "0baf0b874da1ef22",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0c47d244cb352de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c71688dc04993151",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "25c990e4357cba58",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "665b9a3775c6da7a",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Misc/Learning More effectevly.md",
+    "Misc",
+    "Machine Learning/Machine Learning Engineer Certification/Perform Foundational Data, ML, and AI Tasks in Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/Machine Learning in the Enterprise.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) with Vertex AI -  Manage Features.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Computer Vision on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Build and Deploy Machine Learning Solutions on Vertex AI.md",
+    "Machine Learning Operations (MLOps).md",
+    "All Reading - MLOps - Getting Started.pdf",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise.md",
+    "2023-10-06.md",
+    "Untitled 1.canvas",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+    "Untitled/Learning More effectevly.md",
+    "Untitled",
+    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
+    "Machine Learning/Machine Learning Engineer Certification/Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
+    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+    "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
+    "Untitled.canvas",
+    "Machine Learning/Machine Learning Engineer Certification/T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
+    "Machine Learning/one-hot encoding.md",
+    "Machine Learning/Machine Learning Engineer Certification/Vertex AI.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
+    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
+    "Machine Learning/Machine Learning Engineer Certification/Computer Vision.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test",
+    "Machine Learning/Deep Learrning/RNN.md",
+    "Machine Learning/Deep Learrning/LSTM.md",
+    "Machine Learning/Deep Learrning",
+    "Pasted image 20230828171858.png",
+    "T-MLGCP5-A-m8-l2-file-en-46.pdf.en.pdf",
+    "Captura de pantalla 2023-08-21 a la(s) 19.41.37.png",
+    "Machine Learning/Machine Learning Engineer Certification"
+  ]
+}

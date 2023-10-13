@@ -1,9 +1,27 @@
 
 # Cronograma de estudio
+
+3 months at 12 hours a week
+# MLOPS
+
+## Viernes 06-10 - Viernes 13-10
+### [[ Machine Learning Operations (MLOps) Getting Started]]
+### [[Machine Learning Operations (MLOps) with Vertex AI -  Manage Features]]
+### [[ML Pipelines on Google Cloud]] 
+## Viernes 13-10 - Viernes 20-10
+
+[[## ML Pipelines on Google Cloud]] (Rezago)
+### [[Perform Foundational Data, ML, and AI Tasks in Google Cloud]]
+### [[Build and Deploy Machine Learning Solutions on Vertex AI]]
+
+### Miércoles 25-10 - Viernes 10-11
+
+14 - 15 Rezagados
+
 # Sobre la prueba
 Duración: 2 horas
 Formato: Selección multiple, alternativas multiples
-Prerequisitos: Ninguno
+Pre-requisitos: Ninguno
 Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 años diseñando y gestionando soluciones usando GCP
 # Contenido
 ## ML Problem Framing
@@ -44,6 +62,15 @@ Experiencia recomendada: +3 años de experiencia en la industria, incluyendo +1 
 * Manejar las preguntas más difíciles descartando las alternativas incorrectas más obvias .
 * No hay una penalización por respuestas equivocadas, no hay que dejar nada en blanco, hacer la mejor conjetura posible. 
 # Cursos
+In the first series of courses called Machine learning on Google Cloud, you learn about how ML on GC can make tasks **better**, **faster**, and **easier**
+The second series of coursers, Advanced Machine Learning on Google Cloud, focused on more wide-ranging machine learning applications
+	* [[Computer Vision on Google Cloud]]
+	* [[Natural Language Processing]]
+	* [[Recommendation Systems]]
+The last series courses its all about [[Machine Learning Operations (MLOps)]] and focuses on **machine learning models from an operational perspective**
 * ### How Google Does Machine Learning
 * ### Launching into Machine Learning
-*
+
+# Enlaces de interés
+
+ [Preguntas examen MLE](https://www.examtopics.com/exams/google/professional-machine-learning-engineer/)

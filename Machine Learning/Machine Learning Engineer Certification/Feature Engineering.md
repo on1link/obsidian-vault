@@ -13,7 +13,7 @@
 ## Serving features: Batch and online
 ## Resources
 ## Quiz
-1. Vertex AI Feature Store provides a centralized repository for organizing, storing, and serving ML features. Using a central featurestore, enables an organization to efficiently share, discover, and re-use ML features at scale, which can increase the velocity of developing and deploying new ML applications. What are the key challenges that Vertex AI Feature Store solves
+1. Vertex AI Feature Store provides a centralized repository for organizing, storing, and serving ML features. Using a central feature store, enables an organization to efficiently share, discover, and re-use ML features at scale, which can increase the velocity of developing and deploying new ML applications. What are the key challenges that Vertex AI Feature Store solves
 	* Mitigate data storage silos, which occurs when you might have built and managed separate solutions for storage and the consumption of feature values.
 	* Detect drift, as a result of significant changes to your feature data distribution over time
 	* Mitigate training-serving skew, which occurs when the feature data distribution that you use in production differs from the feature data distribution that was used to train your model.

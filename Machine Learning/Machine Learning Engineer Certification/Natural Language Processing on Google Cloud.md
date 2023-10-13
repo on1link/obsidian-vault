@@ -11,7 +11,7 @@
 	* Image Recognition 
 * What are the three major components that the Dialogflow API hellps to identify in a conversation?
 	* Intent (the topic), entity (the details), and context (the flow of the conversation)
-# NLP with Vertex AI
+# NLP with [[Vertex AI]]
 ## Quiz 
 * What are the NLP tasks solved by [[AutoML]]?
 	* Sentiment analysis

@@ -12,7 +12,7 @@
 # Data in the Enterprise
 ## Quiz
 * Which Data processing option can be used for transforming large unstructured data in Google Cloud?
-	* Dataflorw
+	* Dataflow
 * Which of the following statements is not a feature of Analytics Hub?
 	* *Analytics Hub requires batch data pipelines that extract data from databases, storer it in flat file, and transmit them tot he consumer where they are ingested into another database*
 	* Analytics Hub efficiently and securely exchanges data analytics assets across organizations to address challenges of data reliability and cost
