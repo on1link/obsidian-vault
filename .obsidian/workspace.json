@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7193499f28ff5c",
+        "id": "6b5b34b1dde3922f",
         "type": "tabs",
         "children": [
           {
-            "id": "453441000d5c3cfb",
+            "id": "28dee8397afb226e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "random variable",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 553.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md"
+              }
             }
           },
           {
@@ -178,8 +184,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "453441000d5c3cfb",
+  "active": "28dee8397afb226e",
   "lastOpenFiles": [
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+    "Misc/Cognitive Behavioural Therapy",
     "Statistics/Binomial Distribution.md",
     "Misc/Definiciones.md",
     "Misc/Learning More effectevly.md",
@@ -205,8 +214,6 @@
     "Statistics/Descriptive Statistics.md",
     "Roam/Turing/Significance Tests.md",
     "Statistics/Inferential statistics.md",
-    "Roam/Turing/2022-07-07.md",
-    "Roam/Turing/2022-07-06.md",
     "Statistics",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -226,7 +233,6 @@
     "Roam/Turing/Attachments/imgs/app",
     "Roam/Turing/Attachments/imgs",
     "Roam/Turing/Attachments",
-    "Roam/Turing",
-    "Roam"
+    "Roam/Turing"
   ]
 }
