@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "013986d8740378e3",
+        "id": "8e7193499f28ff5c",
         "type": "tabs",
         "children": [
           {
-            "id": "52a0582b54136120",
+            "id": "453441000d5c3cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Binomial Distribution.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statistics/Binomial Distribution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,8 +178,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1920a06a733198c7",
+  "active": "453441000d5c3cfb",
   "lastOpenFiles": [
+    "Statistics/Binomial Distribution.md",
     "Misc/Definiciones.md",
     "Misc/Learning More effectevly.md",
     "Machine Learning/Deep Learrning/LSTM.md",
@@ -208,7 +202,6 @@
     "Machine Learning/Deep Learrning/BERT.md",
     "Roam/Turing/Research Methodology.md",
     "Statistics/Probability Distribution.md",
-    "Statistics/Binomial Distribution.md",
     "Statistics/Descriptive Statistics.md",
     "Roam/Turing/Significance Tests.md",
     "Statistics/Inferential statistics.md",
