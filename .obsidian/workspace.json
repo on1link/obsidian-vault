@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b5b34b1dde3922f",
+        "id": "ccf44330787546e6",
         "type": "tabs",
         "children": [
           {
-            "id": "28dee8397afb226e",
+            "id": "fb3cd3fd0cc7540c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,11 +164,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,16 +185,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "28dee8397afb226e",
+  "active": "fb3cd3fd0cc7540c",
   "lastOpenFiles": [
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
+    "2023-10-15.md",
+    "Templates",
+    "Excalidraw/Drawing 2023-10-15 01.12.14.excalidraw.md",
+    "Machine Learning/Deep Learrning/GRU.md",
+    "Machine Learning/one-hot encoding.md",
     "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
     "Misc/Cognitive Behavioural Therapy",
     "Statistics/Binomial Distribution.md",
     "Misc/Definiciones.md",
     "Misc/Learning More effectevly.md",
     "Machine Learning/Deep Learrning/LSTM.md",
-    "Machine Learning/Deep Learrning/GRU.md",
     "Machine Learning/Deep Learrning/RNN.md",
     "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
     "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
@@ -207,13 +212,11 @@
     "Machine Learning/Keras.md",
     "All Reading - MLOps - Getting Started.pdf",
     "Machine Learning/Algoritmo de Aprendizaje.md",
-    "Machine Learning/one-hot encoding.md",
     "Machine Learning/Deep Learrning/BERT.md",
     "Roam/Turing/Research Methodology.md",
     "Statistics/Probability Distribution.md",
     "Statistics/Descriptive Statistics.md",
     "Roam/Turing/Significance Tests.md",
-    "Statistics/Inferential statistics.md",
     "Statistics",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -231,8 +234,6 @@
     "Roam/Turing/Attachments/imgs/app/Turing/DYdERBBsKN.png",
     "Roam/Turing/Attachments/imgs/app/Turing",
     "Roam/Turing/Attachments/imgs/app",
-    "Roam/Turing/Attachments/imgs",
-    "Roam/Turing/Attachments",
-    "Roam/Turing"
+    "Roam/Turing/Attachments/imgs"
   ]
 }

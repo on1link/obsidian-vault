@@ -7,7 +7,7 @@ Distracción cognitiva
 	SEGUNDA FASE REESTRUCTURACION COGNITIVA
 	  - RECONOCER LOS ERRORES DEL PENSAMIENTO 
 
-Las preocupaciones 
+## Las preocupaciones 
 	- La mayoría de las cosas que nos preocupan no pasan
 	- Tenemos la creencia, que entre más nos preocupamos por algo menos pasa ese algo es todo lo contrario (50%)
 		- Ej: Prueba a la universidad, no se preocupo nada de la prueba, 0-100
@@ -30,174 +30,128 @@ Lecture 3 - 26/01/2021:
 
 PREVIO (Aprender a detectar lo que yo pienso)
 
-## Errores del pensamiento
-	 # Distorsiones cognitivas
-	 	Errores a la hora de procesar la información
-	 		Irracional
-	 			Conductas inadecuadas.
-	 	Sesgo en el procesamiento
-	 		Pensamiento Dicotómico
-	 			Solo deja ver el blanco y el negro y no los grises
-	 			Siempre / Nunca / Todo me sale mal / Nada me resulta
-	 			Extremo de continuo 
-				Peligro:
-					Visión que tenemos de nosotros, sino somos lo mejor somos 						lo  peor
-				Hay que aprender a ver los grises más que los blancos o negros
-				Conceptos 100% feliz o no soy feliz
-			
-			Sobre-generalizacion
-				- Categorizaciones erroneas absolutas 
-					- Todos los políticos son corruptos
-					- Todos los perros son bravos
-					- Todos los hombres son infieles
-	 			- Pensar que algo que me paso 1 o 2 veces me va a pasar siempre:
-	 				- Evitar algo por generalización 
-	 				
-	 		Abstracción selectiva - visión de túnel
-	 			Un detalle negativo hecha a perder toda la experiencia
-	 			Un error en un presentación puntual
-	 			Donde ponga la atención, voy a construir la realidad
-	 		
-	 		Sesgo confirmatorio
-	 			Convencerse de algo y nadie lo saca de ahí. 10 cosas bien y una mal y confirma su creencia (viste hago todo mal)
-	 			
-	 	 	Descalificación de los positivo
-	 	 		Me siento bien y después me toca sentirme mal
-	 	 		Empiezo a descalificar lo positivo para evitar sentirme mal
-	 	 		Pero no hay ninguna ley que diga que si me siento bien después me puedo sentir mal.
-	 	 		
-	 	 	
-	 	 	Inferencias arbitrarias (suponer cosas)
-	 	 		Datos visibles: comprobamos rápidamente
-	 	 		Datos invisibles: 
-	 				Cuando nos falta información
-	 				
-	 			   * Adivinación del pensamiento
-	 			   		Suponer que los demás están pensando mal de nosotros sin tener evidencia (no le gusto, cree que soy flojo).
-	 			   Suponemos las intenciones que tiene el otro. (amigo que llama para pedir un favor (sin ser realidad))
-	 			   No hay que suponer cosas sin evidencia
-	 			   
-	 			   Lleva a ponerse muy ansioso, no hay que adivinar el pensamiento del otro ni las intenciones.
-	 			   * El error de adivinar el futuro
-	 			      Consisten en pensar que el futuro va a ser negativo
-	 			      sin darle oportunidad de ser neutro o positivo
-	 			      	(Lo voy a pasar mal en la fiesta)
-					
-					No hay que adivinar el futuro ni intenciones.
-					
-			Magnificación
-				Consiste en hacer que algo malo sea más malo
-				Vamos a darle significado catastrófico 
-				Se identifica por el lenguaje (Terrible, horrorifico, desastroso, odio, no soporto esto) todas son magnificaciones
-				"Bencina subió $5 que terrible"
-				Lenguaje crea realidades.
-				Hay que empezar a hablarse de otra forma
-				Las cosas son incomodas o desagradable en vez de odio, que lata esto, etc.
-				Son responsable del 80% del malestar emocional.
-				
-			
-			Razonamiento emocional
-				Cuando se nos olvida razonar.
-				Razonar a través de lo que sientes
-				La emoción envía un mensaje que no dudamos
-				"Carvernicola mirando a un Leon"
-				Las emociones son moduladores de conductas
-					Miedo alejarnos del peligro, si dudamos del miedo nos exponemos al peligro. Pero hoy en día no es tan así
-				Cada emoción te hace creer algo, no estamos diseñado para dudar de esas emociones.
-				Circuito pensamiento-emoción es muy difícil de romper
-				
-# Sesión 4 - 29/01/2021
-
-Repaso Errores del pensamiento
-
-##### Imperativos categóricos
-	Exigencia que nos ponemos nosotros mismos
-	Los "deberias" también generan culpa
-		Generan frustración, rabia. Estamos estos deberías
-	Donde surgen:
-		Nos regimos por las normas de la sociedad
-		Las nuestras que nosotros tenemos son nuestras normas, no son universales de todos.
-		Lo cambiamos de "exigencia" a "preferencia, me convendría, me gustaría" El debería a me "gustaría"
-
-##### Personalización: Yo soy el centro del universo
-	Somos el centro de nuestro universo simbólico por ende creemos que somos el centro real.
-	No todo gira en torno a nosotros
-e.g	Mi hijo no ordena la pieza, soy mal padre
-Culpabilizar muchas veces de las cosas que pasan
-Que todo el muro esta mirando lo que hago
+# Errores del pensamiento
+##  Distorsiones cognitivas
+Errores a la hora de procesar la información, Irracional, Conductas  inadecuadas. Sesgo en el procesamiento.
+### Pensamiento Dicotómico
+Solo deja ver el blanco y el negro y no los grises:
+* Siempre / Nunca / Todo me sale mal / Nada me resulta.
+Extremo de continuo
+Peligro:
+- Visión que tenemos de nosotros, sino somos lo mejor somos lo peor.
+- Conceptos de ser 100% feliz o no soy feliz
+Hay que aprender a ver los grises más que los blancos o negros.
+### Sobre-generalización
+Categorizaciones erroneas absolutas:
+* Todos los políticos son corruptos.
+- Todos los perros son bravos.
+- Todos los hombres son infieles.
+Pensar que algo que me paso 1 o 2 veces me va a pasar siempre, conlleva a evitar algo por generalización.
+### Abstracción selectiva - visión de túnel
+Un detalle negativo hecha a perder toda la experiencia, e.g. Un error que se cometa en un presentación puntual ante público.
+Donde ponga la atención, voy a construir la realidad.
+### Sesgo confirmatorio
+Convencerse de algo y nadie lo saca de ahí, e.g. Alguien hace diez cosas bien y una mal, hace confirmar su creencia, "viste hago todo mal".
+### Descalificación de los positivo
+"Me siento bien y después me toca sentirme mal."
+Se empieza a descalificar lo positivo para evitar sentirse mal.
+En la realidad no hay ninguna ley que diga que si me siento bien, después me puedo sentir mal.
+### Inferencias arbitrarias (suponer cosas)
+Datos visibles: comprobamos rápidamente.
+Datos invisibles:  Cuando nos falta información.
+#### Adivinación del pensamiento
+Suponer que los demás están pensando mal de nosotros sin tener evidencia, e.g.
+* "No le gusto"
+* "Cree que soy flojo"
+Suponemos las intenciones que tiene el otro, e.g. "Amigo que llama para pedir un favor", sin ser realidad la intención.
+No hay que suponer cosas sin evidencia.
+Esto lleva a ponerse muy ansioso, no hay que adivinar el pensamiento del otro ni las intenciones.
+#### El error de adivinar el futuro
+Consisten en pensar que el futuro va a ser negativo, sin darle oportunidad de ser neutro o positivo, e.g.:
+* "Lo voy a pasar mal en la fiesta"
+No hay que adivinar el futuro ni intenciones.
+### Magnificación
+Consiste en hacer que algo malo sea más malo, vamos a darle significado catastrófico. Se identifica por el lenguaje: **"Terrible", "Horrorífico", "Desastroso", "Odio", "No soporto esto**",
+todas son magnificaciones, e.g.
+* "La bencina subió $5, que terrible"
+Lenguaje crea realidades, por lo tanto, hay que empezar a hablarse de otra forma. Las cosas son "incomodas" o "desagradables" en vez de "odio", "que lata esto", etc.
+Estás son responsable del **80%** del malestar emocional.
+### Razonamiento emocional
+Es cuando se nos olvida razonar, y se convierte en razonar a través de lo que sientes. La emoción envía un mensaje que no dudamos; e.g., "Un carvernicola mirando a un León".
+Las emociones son moduladores de conductas: el miedo nos hace alejarnos del peligro; si dudamos del miedo, nos exponemos al peligro. Pero hoy en día no es tan así.
+Cada emoción te hace creer algo; no estamos diseñados para dudar de esas emociones.
+El circuito pensamiento-emoción es muy difícil de romper.
+### Imperativos categóricos
+Es la exigencia que nos ponemos nosotros mismos, los **"deberías"** también generan culpa;
+generan frustración, rabia. Estamos estos deberías
+Donde surgen:
+* Nos regimos por las normas de la sociedad.
+* Las nuestras que nosotros tenemos son nuestras normas, no son universales de todos.
+Los tenemos que cambiar de "exigencia" a "preferencia", "me convendría", "me gustaría".
+### Personalización: Yo soy el centro del universo
+Somos el centro de nuestro universo simbólico por ende creemos que somos el centro real.
+No todo gira en torno a nosotros, e.g	"Mi hijo no ordena la pieza, por lo tanto, soy mal padre".
+Culpabilizar a uno mismo muchas veces de las cosas que pasan
+Que todo el mundo esta mirando lo que hago
 Uno tiende a pensar que todo va dirigido a uno, pensar mal alguna ofensa
-	Donde nace:
-		En la pre-adolecencia: Estamos siempre actuando para alguien que no esta ahí
+Donde nace:
+	En la pre-adolecencia: Estamos siempre actuando para alguien que no esta ahí
 		
 Nadie te esta mirando, nadie te esta juzgando.
 Otra forma de manifestarse: Compararse con los demás, ni para bien ni para mal, siempre te vas a sentir inferior. Somos una combinación de fortalezas y debilidades. Hay que retarse a uno mismo cuando ocurre estas situaciones
 Hay que apoyarse en las distorsiones
-
-#### Etiqueta Global
-
+### Etiqueta Global
 Le pones etiqueta a las personas y a uno mismo, las etiquetas no caducan
-	Viene de
-	   * La sobre generalización
-	   	 Si fue egoísta una vez conmigo será siempre
-	   * Visión de túnel
-	     De la característica negativa, etiquetas al global de la persona. Abstracción selectiva
-	     
+Viene de:
+* La sobre generalización, "Si fue egoísta una vez conmigo será siempre"
+* Visión de túnel, de la característica negativa, etiquetas al global de la persona. Abstracción selectiva
 No representan a las personas
 ### Visión catastrófica
-	* Adivinación del futuro
-	* Magnificacion
+Es:
+* Adivinación del futuro
+* Magnificacion
 	
 Si algo es posible le da 100% de probabilidad o el escenario más catastrófico (caer un meteorito a mi pieza)
 Uno tiende a exagerar que va a pasar algo malo Fobia al avión 
 La ansiedad de esto es muy alta
 
-			
-# Sesión 5 - 02/02/2021
-
 ## Distorsiones Secundarias
 
 ### Falacia de Cambio 
-	Consiste en pensar que es el otro el que tiene que cambiar para que yo pueda ser feliz
-	Si mi profesor no fuera tan pesado me sentiría más cómodo
-	Si mi novia no fuera tan pesada no me sentiría así
-	Los que tenemos que cambiar somos nosotros no es el otro
-	
+Consiste en pensar que es el otro el que tiene que cambiar para que yo pueda ser feliz, e.g.:
+* Si mi profesor no fuera tan pesado me sentiría más cómodo.
+* Si mi novia no fuera tan pesada no me sentiría así.
+Los que tenemos que cambiar somos nosotros no es el otro.
 ### Falacia de Justicia
-	Te hace creer que todo lo que quieres o necesitas es justo 
-	Y todo lo que quieren o necesitan los demás es injusto
-	
-	Caen mucho acá las personas agresivas (ve todo como ganar o perder, todo es justo o injusto)
-
+Te hace creer que todo lo que quieres o necesitas es justo y todo lo que quieren o necesitan los demás es injusto. 
+Caen mucho acá las personas agresivas (ven todo como ganar o perder, todo es justo o injusto)
 ### Falacia de Recompensa Divina
-	El sufrimiento de hoy mañana es recompensa
-	Un ser divino va a recompensar el sufrimiento
-	La recompensa hay que recibirla ahora
-	Cuando cumpla 18 o cuando salga del colegio, cuando me titule, cuando nazca mi hijo. Siempre buscando un evento futuro para la felicidad, no va a llegar
-	Te hace creer que los problemas se solucionan solos.
-	
+El sufrimiento de hoy mañana es recompensa. Un ser "divino" va a recompensar el sufrimiento. La recompensa hay que recibirla *ahora*.
+Siempre buscando un evento futuro para la felicidad, no va a llegar. Te hace creer que los problemas se solucionan solos, e.g.
+* Cuando cumpla 18.
+* Cuando salga del colegio.
+* Cuando me titule.
+* Cuando nazca mi hijo.
 ### Falacia de Razón
-	Consiste en pensar que siempre tienes la razón
-	No hacer caso al interlocutor
-	Proverbio Chino "No se puede servir el te en una taza llena"
-	Obsesión con tener la razón
-	Son personas agresivas, no soportan perder una conversación
-	Problemas con las personas, no las escuchas no hay dialogo
-	
+Consiste en pensar que siempre tienes la razón
+No hacer caso al interlocutor
+Proverbio Chino "No se puede servir el te en una taza llena"
+Obsesión con tener la razón
+Son personas agresivas, no soportan perder una conversación
+Problemas con las personas, no las escuchas no hay dialogo
 ### Culpabilidad
-    Si se encuentra al culpable de algo se soluciona la situación
-    Si tu culpabilizas severamente a alguien no se puede cambiar.
-    Si culpabilidad hacia uno mismo, ansiedad, depresión, angustia
-    Al otro, rabia hostilidad
-    Lleva solo a generar conflictos personal o social. Pésima estrategia
-    La peor estrategia para cambiar algo a alguien
-    
+Si se encuentra al culpable de algo se soluciona la situación
+Si tu culpabilizas severamente a alguien no se puede cambiar.
+Si culpabilidad hacia uno mismo, ansiedad, depresión, angustia
+Al otro, rabia hostilidad
+Lleva solo a generar conflictos personal o social. Pésima estrategia
+La peor estrategia para cambiar algo a alguien
 ### Falacia de Control
-    Control omnipotente
-    	Uno todo lo puede, sentirte responsable de los otros, tratar de mejorar al otro.
-    	No se puede controlar al otro
-    	Te obsesionas, conclusiones de que tienes que mejorar al otro.
-    	Viene de un pensamiento, creencia, "si quieres a alguien tienes que preocuparte por él."
-    	
+Control omnipotente
+Uno todo lo puede, sentirte responsable de los otros, tratar de mejorar al otro.
+No se puede controlar al otro
+Te obsesionas, conclusiones de que tienes que mejorar al otro.
+Viene de un pensamiento, creencia, "si quieres a alguien tienes que preocuparte por él."
 ### Falacia de Control Externo
 	Tu no tienes nada de control de tu vida
 	Todas las disiciones las tomas las demás por ti
