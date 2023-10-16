@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf44330787546e6",
+        "id": "97a865359a6f90f7",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3cd3fd0cc7540c",
+            "id": "8ef947a4ef8fde4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 434.5
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -80,27 +80,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e7d5a331b6ce8a2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "4e0a1d40472dc20a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -113,9 +102,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e7d5a331b6ce8a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "25c990e4357cba58",
+            "id": "bb2056851e6fa09c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,59 +181,58 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb3cd3fd0cc7540c",
+  "active": "8ef947a4ef8fde4c",
   "lastOpenFiles": [
-    "2023-10-15.md",
-    "Templates",
-    "Excalidraw/Drawing 2023-10-15 01.12.14.excalidraw.md",
-    "Machine Learning/Deep Learrning/GRU.md",
-    "Machine Learning/one-hot encoding.md",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
-    "Misc/Cognitive Behavioural Therapy",
-    "Statistics/Binomial Distribution.md",
-    "Misc/Definiciones.md",
-    "Misc/Learning More effectevly.md",
-    "Machine Learning/Deep Learrning/LSTM.md",
-    "Machine Learning/Deep Learrning/RNN.md",
-    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
-    "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
-    "Machine Learning/Deep Learrning/Attention Mechanism.md",
-    "Roam/Turing/RNN.md",
-    "Machine Learning/Deep Learrning/Artificial Neural Networks.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
-    "Machine Learning/Keras.md",
-    "All Reading - MLOps - Getting Started.pdf",
-    "Machine Learning/Algoritmo de Aprendizaje.md",
-    "Machine Learning/Deep Learrning/BERT.md",
-    "Roam/Turing/Research Methodology.md",
+    "Statistics/Probability.md",
     "Statistics/Probability Distribution.md",
+    "Statistics/Normal Distribution.md",
+    "Statistics/Inferential statistics.md",
     "Statistics/Descriptive Statistics.md",
-    "Roam/Turing/Significance Tests.md",
-    "Statistics",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Pasted image 20230828171858.png",
-    "Roam/Turing/A",
+    "Statistics/Confidence Intervals.md",
+    "Statistics/Binomial Distribution.md",
+    "Roam/Turing/¿Qué es la Investigación.md",
+    "Roam/Turing/t-student.md",
+    "Roam/Turing/mlplatform.md",
+    "Roam/Turing/Zuo, Y.2012 Evaluation on comprehensive benefit of wind power generation and utilization of wind energy.md",
+    "Roam/Turing/Zilly2016 Recurrent Highway Network.md",
+    "Roam/Turing/Zhu, X.2019 Attention-based recurrent neural network for influenza epidemic prediction.md",
+    "Roam/Turing/Zhu, X.2012 Short-Term Wind Speed Forecasting for Power System Operations.md",
+    "Roam/Turing/Zhou, H.2021 Informer Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.md",
+    "Roam/Turing/Zheng, Z. W.2012 Short-Term Wind Power Forecasting Using Empirical Mode Decomposition and RBFNN.md",
+    "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
+    "Roam/Turing/Zhang1998 Forecasting with artificial neural networks The state of the art.md",
+    "Roam/Turing/Zhang, L.2018 Two-stage short-term wind speed prediction based on LSTM-LSSVM-CFA.md",
+    "Roam/Turing/Zhang, C.2015 Predictive deep boltzmann machine for multiperiod wind speed forecasting.md",
+    "Roam/Turing/Zaheer, M2020 Big bird Transformers for longer sequences.md",
+    "Roam/Turing/Yesilbudak M.2013 A new approach to very short-term wind speed prediction using k-nearest neighbor classification.md",
+    "Roam/Turing/Yang, T2018 A novel method of wind speed prediction by peehole LSTM.md",
+    "Roam/Turing/Xu2015 Show, attend and tell Neural image caption generation with visual attention.md",
+    "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
+    "Roam/Turing/Xiao, L2017 Multi-step wind speed forecasting based on a hybrid forecasting architecture and an improved bat algorithm.md",
     "Roam/Turing/Selección",
-    "Roam/Turing/Attachments/imgs/app/Turing/Oi4cwT0lKz.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/PrhcpoVp3s.png",
     "Roam/Turing/Attachments/imgs/app/Turing/zeV2j6gTxJ.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/Mwi0mLe6zA.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/wO_QYA6ddN.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/rk85AAYL_P.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/rg2heA_v35.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/rXtP6Bvo2V.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/qcou_XFrVl.png",
     "Roam/Turing/Attachments/imgs/app/Turing/pLqCEBx72e.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/22ciiCez7k.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/72dly9F9so.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/omSrFXiFDA.png",
     "Roam/Turing/Attachments/imgs/app/Turing/jM__98EnXt.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/DYdERBBsKN.png",
+    "Roam/Turing/Attachments/imgs/app/Turing/fs77ihvJjl.png",
     "Roam/Turing/Attachments/imgs/app/Turing",
     "Roam/Turing/Attachments/imgs/app",
-    "Roam/Turing/Attachments/imgs"
+    "Roam/Turing/Attachments/imgs",
+    "Roam/Turing/Attachments",
+    "Roam/Turing/A",
+    "Roam/Turing",
+    "Roam",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
+    "Misc/Cognitive Behavioural Therapy",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
