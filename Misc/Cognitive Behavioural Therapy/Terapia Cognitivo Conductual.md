@@ -153,12 +153,9 @@ No se puede controlar al otro
 Te obsesionas, conclusiones de que tienes que mejorar al otro.
 Viene de un pensamiento, creencia, "si quieres a alguien tienes que preocuparte por él."
 ### Falacia de Control Externo
-	Tu no tienes nada de control de tu vida
-	Todas las disiciones las tomas las demás por ti
-	Elegir carrera, elegir ropa, elegir futuro en pareja.
-	
-	
-	
+Tu no tienes nada de control de tu vida
+Todas las disiciones las tomas las demás por ti
+Elegir carrera, elegir ropa, elegir futuro en pareja.
 # Como generar emociones negativas adecuadas
 Las adecuadas se producen por pensamiento racional
 Y las inadecuadas se producen por pensamiento irracional
