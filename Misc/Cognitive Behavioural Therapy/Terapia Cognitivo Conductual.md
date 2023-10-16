@@ -347,50 +347,32 @@ Tienes derecho a pedir apoyo o ayuda emocional
 	
 Tienes derecho a sentir y expresar el dolor
 	Tienes derecho a expresarlo ante la gente que me importa
-	
+## SUPOCISIONES tradicionales errónea
+# Creencias sociales 
+* *"Anteponer a los demás antes de ti, sino eres egoísta"
+Te hacen creer que eres egoísta, tu tienes derecho a vece a ser el primero
+* Es vergonzoso cometer errores, hay que tener una respuesta adecuada para cada ocasión. Nos sentimos incomodo al sentir un error, tenemos el dercho a cometer errores
+* Si uno no puede converser a los demás de que sus sentimiento son razonables, debe ser que esta equivocado o bien se esta volviendo. Mis sentimientos yo los validos, soy el juez ultimo que los validas
+* Hay que respetar los puntos de vistas de los demás, sobre todo si ocupan algún cargo de autoridad, guardarse las dif de opinión para uno mismo, escuchar y aprender.Derecho tu propia opinión y creencia
+* Hay que intentar ser siempre lógico y consecuente. Derecho a cambiar, puedo cambiar de ideas o lineas de acción
+* Hay que ser flexible y adaptarse, cada uno tiene sus motivos para hacer las cosas, y no es de buena educación interrogar a la gente. Tienes derecho a la critica y protestar por un trato injusto de forma respetuosa!
+* No hay que interrumpir nunca a la gente, hacer preguntas denota estupidez. Ud. tiene derecho interrumpir para pedir la aclaración.}
+* Las cosas prodrían ser peor de lo que son, no hay que tentar a la suerte. Perfecto derecho a cambiar las cosas o tener un cambio
+* No hay que ser perder a los demás su valioso tiempo con los problemas de uno. Ud. tiene derecho a pedir ayuda o apoyo emocional
+* A la gente no le gusta escuchar que uno se encuentra mal, mejor guardarselo para sí. Ud. tiene derecho a sentir y expresar el dolor emocional
+* Cuando alguien se molesta en dar un consejo, es mejor tomarlos en cuenta porque suele a tener razón. Derecho a tomar mis propias decisiones. los consejos son sugerencia
+* La satisfacción de saber que se ha hecho algo bien es la mejor recompensa, Derecho al reconocimiento formal por las cosas buenas. Agradecer es muy asetivo (reconocimiento hay que darselo uno.
+* Hay que intentar adaptarse siempre a los demás, cuando tu los necesites no los vas a encontrar. Ud. derecho a decir no.
+* No hay que ser antisocial, si decides estar solo, los demás pensaran que no te gustan. Ud. tiene derecho a estar solo, aún cuando los demás deseen su compañia.
+# Hay que tener siempre una buena razón para todo lo que siente y se hace.
+El derecho a no justificarse ante los demás. Ejemplo lasaña con la suegra
+# Cuando alguien tiene un problema hay que ayudarle.
+Ud. tiene derecho a no responsabilizarse por los problemas de los demás.
+# Hay que ser sensible a las necesidades de los demás, aún cuando estos sean incapaces de demosrtarles
+Derecho a no anticiparse a los deseos de los demás.
+# Es una buena politica ver el lado bueno de la gente.
+No estar pendiente de la buena voluntar de los demás
 
-SESION
-SUPOCISIONES tradicionales errónea
-	# Creencias sociales 
-	"Anteponer a los demás antes de ti, sino eres egoísta"
-	Te hacen creer que eres egoísta, tu tienes derecho a vece a ser el primero
-	# Es vergonzoso cometer errores, hay que tener una respuesta adecuada para cada ocasión 
-	  Nos sentimos incomodo al sentir un error, tenemos el dercho a cometer errores
-	# Si uno no puede converser a los demás de que sus sentimiento son razonables, debe ser que esta equivocado o bien se esta volviendo 
-	Mis sentimientos yo los validos, soy el juez ultimo que los validas
-	# Hay que respetar los puntos de vistas de los demás, sobre todo si ocupan algún cargo de autoridad, guardarse las dif de opinión para uno mismo, escuchar y aprender.
-	Derecho tu propia opinión y creencia
-	# Hay que intentar ser siempre lógico y consecuente
-	Derecho a cambiar, puedo cambiar de ideas o lineas de acción
-	# Hay que ser flexible y adaptarse, cada uno tiene sus motivos para hacer las cosas, y no es de buena educación interrogar a la gente
-	Tienes derecho a la critica y protestar por un trato injusto de forma respetuosa!
-	# No hay que interrumpir nunca a la gente, hacer preguntas denota estupidez
-	Ud. tiene derecho interrumpir para pedir la aclaración.}
-	# Las cosas prodrían ser peor de lo que son, no hay que tneer a la suerte.
-	Perfecto derecho a cambiar las cosas o tener un cambio
-	# No hay que ser perder a los demás su valioso tiempo con los problemas de uno.
-	Ud. tiene derecho a pedir ayuda o apoyo emocional
-	
-	# A la gente no le gusta escuchar que uno se encuentra mal, mejor guardarselo para sí.
-	Ud. tiene derecho a sentir y expresar el dolor emocional
-	# Cuando alguien se molesta en dar un consejo, es mejor tomarlos en cuenta porque suele a tener razón.
-	Derecho a tomar mis propias decisiones. los consejos son sugerencia
-	# La satisfacción de saber que se ha hecho algo bien es la mejor recompensa,
-	Derecho al reconocimiento formal por las cosas buenas. Agradecer es muy asetivo (reconocimiento hay que darselo uno)
-	
-	# Hay que intentar adaptarse siempre a los demás, cuando tu los necesites no los vas a encontrar
-	Ud. derecho a decir no.
-	# No hay que ser antisocial, si decides estar solo, los demás pensaran que no te gustan
-	Ud. tiene derecho a estar solo, aún cuando los demás deseen su compañia.
-	# Hay que tener siempre una buena razón para todo lo que siente y se hace.
-	El derecho a no justificarse ante los demás. Ejemplo lasaña con la suegra
-	# Cuando alguien tiene un problema hay que ayudarle.
-	Ud. tiene derecho a no responsabilizarse por los problemas de los demás.
-	# Hay que ser sensible a las necesidades de los demás, aún cuando estos sean incapaces de demosrtarles
-	Derecho a no anticiparse a los deseos de los demás.
-	# Es una buena politica ver el lado bueno de la gente.
-	No estar pendiente de la buena voluntar de los demás
-	
 	
 
 Volver a lo cognitivo.
