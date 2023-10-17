@@ -424,7 +424,7 @@ Creencias irracionales más comunes
 	
 	20 fortalezas mías para la siguiente sesión
 	
-	Derecho a tomar mis propias decisiones. Ella quiere que me transforme en la persona que quiere que sea
+	Derecho a tomar mis propias decisiones. Ella quiere que me transforme en la persona que quiere que sea 
 	
 	PNI
 	Toma decisiones
