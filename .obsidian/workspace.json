@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+                "file": "Statistics/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+                "file": "Statistics/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+                "file": "Statistics/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md"
+                "file": "Statistics/Binomial Distribution.md"
               }
             }
           },
@@ -186,6 +186,12 @@
   },
   "active": "8ef947a4ef8fde4c",
   "lastOpenFiles": [
+    "Misc/Learning More effectevly.md",
+    "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
+    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) with Vertex AI -  Manage Features.md",
     "Statistics/Probability.md",
     "Statistics/Probability Distribution.md",
     "Statistics/Normal Distribution.md",
@@ -206,12 +212,6 @@
     "Roam/Turing/Zhang1998 Forecasting with artificial neural networks The state of the art.md",
     "Roam/Turing/Zhang, L.2018 Two-stage short-term wind speed prediction based on LSTM-LSSVM-CFA.md",
     "Roam/Turing/Zhang, C.2015 Predictive deep boltzmann machine for multiperiod wind speed forecasting.md",
-    "Roam/Turing/Zaheer, M2020 Big bird Transformers for longer sequences.md",
-    "Roam/Turing/Yesilbudak M.2013 A new approach to very short-term wind speed prediction using k-nearest neighbor classification.md",
-    "Roam/Turing/Yang, T2018 A novel method of wind speed prediction by peehole LSTM.md",
-    "Roam/Turing/Xu2015 Show, attend and tell Neural image caption generation with visual attention.md",
-    "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
-    "Roam/Turing/Xiao, L2017 Multi-step wind speed forecasting based on a hybrid forecasting architecture and an improved bat algorithm.md",
     "Roam/Turing/Selección",
     "Roam/Turing/Attachments/imgs/app/Turing/zeV2j6gTxJ.png",
     "Roam/Turing/Attachments/imgs/app/Turing/wO_QYA6ddN.png",
