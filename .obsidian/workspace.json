@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 231.5
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md"
               }
             }
           },
@@ -185,14 +185,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fb3cd3fd0cc7540c",
+  "active": "3b0651aa1edccbc3",
   "lastOpenFiles": [
+    "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model/Stable Diffusion",
+    "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model",
+    "Machine Learning/Deep Learrning/Generative Model/Diffusion Model",
+    "Machine Learning/Deep Learrning/Generative Model",
+    "Untitled",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
     "2023-10-15.md",
     "Templates",
     "Excalidraw/Drawing 2023-10-15 01.12.14.excalidraw.md",
     "Machine Learning/Deep Learrning/GRU.md",
     "Machine Learning/one-hot encoding.md",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
     "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
     "Misc/Cognitive Behavioural Therapy",
     "Statistics/Binomial Distribution.md",
@@ -216,13 +221,11 @@
     "Roam/Turing/Research Methodology.md",
     "Statistics/Probability Distribution.md",
     "Statistics/Descriptive Statistics.md",
-    "Roam/Turing/Significance Tests.md",
     "Statistics",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230828171858.png",
     "Roam/Turing/A",
-    "Roam/Turing/Selección",
     "Roam/Turing/Attachments/imgs/app/Turing/Oi4cwT0lKz.png",
     "Roam/Turing/Attachments/imgs/app/Turing/PrhcpoVp3s.png",
     "Roam/Turing/Attachments/imgs/app/Turing/zeV2j6gTxJ.png",
@@ -231,9 +234,6 @@
     "Roam/Turing/Attachments/imgs/app/Turing/22ciiCez7k.png",
     "Roam/Turing/Attachments/imgs/app/Turing/72dly9F9so.png",
     "Roam/Turing/Attachments/imgs/app/Turing/jM__98EnXt.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/DYdERBBsKN.png",
-    "Roam/Turing/Attachments/imgs/app/Turing",
-    "Roam/Turing/Attachments/imgs/app",
-    "Roam/Turing/Attachments/imgs"
+    "Roam/Turing/Attachments/imgs/app/Turing/DYdERBBsKN.png"
   ]
 }

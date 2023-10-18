@@ -1,4 +1,5 @@
-
+* Importante: 
+	* Es un certificado sobre cómo hacer ML con las herramientas de Google Cloud Platform!, es muy importante a la hora de abordar las preguntas
 # Cronograma de estudio
 
 3 months at 12 hours a week
@@ -74,3 +75,5 @@ The last series courses its all about [[Machine Learning Operations (MLOps)]] an
 # Enlaces de interés
 
  [Preguntas examen MLE](https://www.examtopics.com/exams/google/professional-machine-learning-engineer/)
+ [Prueba de practica](https://www.logikbot.com)
+ 
