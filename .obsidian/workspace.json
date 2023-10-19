@@ -13,21 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
+                "file": "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c1d399c6c1b43652",
+            "id": "1987ed07559d5c68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md"
               }
             }
           },
@@ -186,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,10 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1d399c6c1b43652",
+  "active": "1987ed07559d5c68",
   "lastOpenFiles": [
-    "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
     "conflict-files-obsidian-git.md",
+    "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
     "20231017_230951.png",
     "Languages/English",
     "Languages/Deutsch",
