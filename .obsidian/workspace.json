@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
+                "file": "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
+                "file": "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
+                "file": "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Binomial Distribution.md"
+                "file": "Roam/Turing/Xing Deng2020 Wind Power Forecasting Methods Based on Deep Learning A Survey.md"
               }
             }
           },
@@ -186,19 +186,23 @@
   },
   "active": "8ef947a4ef8fde4c",
   "lastOpenFiles": [
-    "Misc/Learning More effectevly.md",
+    "Languages/English",
+    "Languages/Deutsch",
+    "Languages",
     "Machine Learning/Machine Learning Engineer Certification/Natural Language Processing on Google Cloud.md",
+    "Untitled.canvas",
+    "Statistics/Normal Distribution.md",
+    "Statistics/Descriptive Statistics.md",
+    "Statistics/Confidence Intervals.md",
+    "Statistics/Binomial Distribution.md",
+    "Misc/Learning More effectevly.md",
     "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
     "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) with Vertex AI -  Manage Features.md",
     "Statistics/Probability.md",
     "Statistics/Probability Distribution.md",
-    "Statistics/Normal Distribution.md",
     "Statistics/Inferential statistics.md",
-    "Statistics/Descriptive Statistics.md",
-    "Statistics/Confidence Intervals.md",
-    "Statistics/Binomial Distribution.md",
     "Roam/Turing/¿Qué es la Investigación.md",
     "Roam/Turing/t-student.md",
     "Roam/Turing/mlplatform.md",
@@ -211,7 +215,6 @@
     "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
     "Roam/Turing/Zhang1998 Forecasting with artificial neural networks The state of the art.md",
     "Roam/Turing/Zhang, L.2018 Two-stage short-term wind speed prediction based on LSTM-LSSVM-CFA.md",
-    "Roam/Turing/Zhang, C.2015 Predictive deep boltzmann machine for multiperiod wind speed forecasting.md",
     "Roam/Turing/Selección",
     "Roam/Turing/Attachments/imgs/app/Turing/zeV2j6gTxJ.png",
     "Roam/Turing/Attachments/imgs/app/Turing/wO_QYA6ddN.png",
@@ -230,9 +233,6 @@
     "Roam/Turing/A",
     "Roam/Turing",
     "Roam",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
-    "Misc/Cognitive Behavioural Therapy",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
