@@ -165,6 +165,7 @@ This is achieved by the following components:
 
 #### Full stack for ML system with Vertex AI
 ![[Captura de pantalla 2023-10-20 a la(s) 12.21.02.png]]
+
 ## Quiz
 * Which of the following characteristics of delivering an ML model is considered as a characteristic of maturity level 0?
 	* Manual, script-driven, and interactive process
@@ -177,10 +178,37 @@ This is achieved by the following components:
 # Vertex AI and MLOps on Vertex AI
 
 ## What is [[Vertex AI]] and why does a unified platform matter?
+### Objetives
+* Introduction to [[Vertex AI]], Google's unified AI platform.
+* Introduction to [[MLOps]] on [[Vertex AI]].
+* Explore how [[Vertex AI]] helps with the [[MLOps]] workflow.
+
+Reming Key construts in machine learning
+* Create datasets.
+* Train model.
+* Iterate the model.
+* Evaluate the model.
+* Deploy the model.
+This end to end process is called MLOps
+[[Vertex AI]]
+Bring together all the [[Google Cloud]] services for building ML and AI in one unified platform which helps enterprises realized more value with their data and accelerate time to value.
+The user interface can be used to directly manage the following stages in the ML workflow.
+![[Captura de pantalla 2023-10-20 a la(s) 12.51.43.png]]
+In summary [[Vertex AI]] offers to achieve ML goals:
+* Fast experimentation
+* Accelerated deployment
+* Simplified model management 
+
 ## Introduction to MLOps on [[Vertex AI]]
 ## How does [[Vertex AI]] help with the MLOps workflow
 
 ## Quiz
+* What is the MLOps life cycle iterative process that retrains you production models with the new data?
+	* Continuous training
+* What component of an ML pipeline is responsible for deploying the model to any edge devices?
+	* Upload model and deploy endpoint
+* How does end-to-end MLOps help ML practitioners with the [[#ML lifecycle]].
+	* End-to-end MLOps helps ML practitioners efficiently and responsibly manage, monitor, govern, and explain ML projects throughout the entire development lifecycle.
 
 # Reading List
 ![[All Reading - MLOps - Getting Started.pdf]]`
