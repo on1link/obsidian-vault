@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -197,6 +198,12 @@
   },
   "active": "8ef947a4ef8fde4c",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-10-20 a la(s) 12.21.02.png",
+    "Captura de pantalla 2023-10-20 a la(s) 12.19.15.png",
+    "Captura de pantalla 2023-10-20 a la(s) 12.12.40.png",
+    "Captura de pantalla 2023-10-20 a la(s) 12.05.36.png",
+    "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
+    "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
     "conflict-files-obsidian-git.md",
@@ -227,17 +234,11 @@
     "Roam/Turing/Zhu, X.2012 Short-Term Wind Speed Forecasting for Power System Operations.md",
     "Roam/Turing/Zhou, H.2021 Informer Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.md",
     "Roam/Turing/Zheng, Z. W.2012 Short-Term Wind Power Forecasting Using Empirical Mode Decomposition and RBFNN.md",
-    "Roam/Turing/Zhang1998 Forecasting with artificial neural networks The state of the art.md",
     "Roam/Turing/Selección",
     "Roam/Turing/Attachments/imgs/app/Turing/zeV2j6gTxJ.png",
     "Roam/Turing/Attachments/imgs/app/Turing/wO_QYA6ddN.png",
     "Roam/Turing/Attachments/imgs/app/Turing/rk85AAYL_P.png",
     "Roam/Turing/Attachments/imgs/app/Turing/rg2heA_v35.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/rXtP6Bvo2V.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/qcou_XFrVl.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/pLqCEBx72e.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/omSrFXiFDA.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/jM__98EnXt.png",
     "Roam/Turing/Attachments/imgs/app/Turing",
     "Roam/Turing/Attachments/imgs/app",
     "Roam/Turing/Attachments/imgs",

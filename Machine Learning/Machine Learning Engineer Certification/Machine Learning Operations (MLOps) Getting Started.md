@@ -125,8 +125,46 @@ ML systems can easily accumulate technical debt due to challenge:
 
 ## Automating the ML process
 
+![[Captura de pantalla 2023-10-20 a la(s) 11.58.20.png]]
 
+The above steps automated or the level of automation defines the maturity of the ML process
+#### Levels of maturity
+##### Level 0
+Build and deploy manually.
+![[Captura de pantalla 2023-10-20 a la(s) 12.02.04.png]]
+The characteristics of MLOps level 0 are:
+* A manual script-driven and interactive process.
+* A disconnection between ML and operation teams.
+* Infrequent releases iterations.
+* No continuous integration, continuous delivery or continuous deployment.
+##### Level 1: ML pipeline automation
+Automate the training phase.
+![[Captura de pantalla 2023-10-20 a la(s) 12.05.36.png]]
+The goal of MLOps level 1 is to perform continuous training of the model by automating the ML pipeline. 
+This achieve the Continuous delivery of the model prediction service.
+The characteristics of MLOps level 1 are:
+* Rapid experiment
+* Continuous training of the model in production
+* Experimental operational symmetry.
+* Modularized code for components and pipelines.
+* Continuous deployment of models, which mean continuous delivery of models and automated pipeline deployment.
+##### Level 2: CI/CD pipeline automation
+Automate training, validation, and deployment.
+![[Captura de pantalla 2023-10-20 a la(s) 12.12.40.png]]
+MLOps level 2 can be characterized as CI/CD automation for the need of a system for a rapid and reliable update of the pipelines in production.
+This allow to rapidly explore new ideas with [[Feature Engineering]], model architecture, and [[hyperparameters]].
+This is achieved by the following components:
+* Source control
+* Test and build services.
+* Deployment services.
+* [[Model Registry]].
+* [[Feature Store]].
+* [[ML metadata store]].
+* [[ML pipeline orchestrator]].
+![[Captura de pantalla 2023-10-20 a la(s) 12.19.15.png]]
 
+#### Full stack for ML system with Vertex AI
+![[Captura de pantalla 2023-10-20 a la(s) 12.21.02.png]]
 ## Quiz
 * Which of the following characteristics of delivering an ML model is considered as a characteristic of maturity level 0?
 	* Manual, script-driven, and interactive process
