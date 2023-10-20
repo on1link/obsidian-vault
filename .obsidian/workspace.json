@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "489d0a52642ba73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1987ed07559d5c68",
             "type": "leaf",
             "state": {
@@ -41,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md"
               }
             }
           },
@@ -208,10 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "489d0a52642ba73c",
+  "active": "8ef947a4ef8fde4c",
   "lastOpenFiles": [
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
     "conflict-files-obsidian-git.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Captura de pantalla 2023-10-20 a la(s) 12.51.43.png",
