@@ -97,9 +97,35 @@ ML systems can easily accumulate technical debt due to challenge:
 * Model decay
 	* Data profiles constantly change, if something changes in the data input, the predictive power of the model in production will probably change with it. Is needed to track summary statistics of the data and monitor the online performance of the model to send notifications or roll back when values deviate from your expectations. Drift is the change in an entity regarding a baseline. With a production ML model, this is the change between the real-time production data and a baseline dataset, most likely the training set, that’s representative of the task the model is intended to perform.
 ## ML lifecycle
+#### The three phases of the ML lifecycle
+* Discovery phase
+	* Business use case definition
+		* Who are the users or who may be affected by the solution?
+		* Is developing a model for this use case feasible?
+	* Data exploration
+	* Architecture and algorithm selection
+		* Priotizing use cases
+* Development phase
+	* It beging in Data exploration with some proof of concepts being developed
+	* Data pipeline creation and feature engineering
+	* Model building
+	* Model evaluation
+	* Presentation of results
+	* Iterate on approach:
+		* Model evaluation - Business use case definition
+		* Data should be revisited
+		* Consider additional data ETL
 
+* Deployment phase
+	* Plan for deployment
+		* Which platform host the model
+		* how to scale the model
+	* Model Operationalization
+	* Model Monitoring
 
 ## Automating the ML process
+
+
 
 ## Quiz
 * Which of the following characteristics of delivering an ML model is considered as a characteristic of maturity level 0?
