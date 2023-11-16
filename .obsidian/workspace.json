@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb5761a86c85f13b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +195,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fb3cd3fd0cc7540c",
+  "active": "fb5761a86c85f13b",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
