@@ -8,3 +8,10 @@
 
 Layers of learning
 Prestudying
+
+Intrinsic motivation
+curiosity, 
+mastery, 
+autotelic purpose,
+autonomy, 
+and purpose.
