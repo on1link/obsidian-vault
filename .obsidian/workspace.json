@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
+                "file": "Akkusativ.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
+                "file": "Akkusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Binomial Distribution.md",
+                "file": "Akkusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Binomial Distribution.md"
+                "file": "Akkusativ.md"
               }
             }
           },
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +187,11 @@
   },
   "active": "fb3cd3fd0cc7540c",
   "lastOpenFiles": [
-    "Statistics/Probability Distribution.md",
+    "Languages/Deutsch/Unidad 8.md",
+    "Akkusativ.md",
     "Statistics/Binomial Distribution.md",
+    "Untitled 1",
+    "Statistics/Probability Distribution.md",
     "Misc/Learning More effectevly.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Untitled.canvas",
@@ -228,9 +232,6 @@
     "Machine Learning/Keras.md",
     "All Reading - MLOps - Getting Started.pdf",
     "Machine Learning/Algoritmo de Aprendizaje.md",
-    "Machine Learning/Deep Learrning/BERT.md",
-    "Roam/Turing/Research Methodology.md",
-    "Statistics",
     "Untitled 1.canvas",
     "Pasted image 20230828171858.png",
     "Roam/Turing/Attachments/imgs/app/Turing/Oi4cwT0lKz.png"
