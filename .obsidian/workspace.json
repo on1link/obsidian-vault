@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akkusativ.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akkusativ.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akkusativ.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akkusativ.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -187,8 +188,17 @@
   },
   "active": "fb3cd3fd0cc7540c",
   "lastOpenFiles": [
-    "Languages/Deutsch/Unidad 8.md",
+    "Captura de pantalla 2023-11-23 a la(s) 18.25.53.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.23.43.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.21.59.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.10.28.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.08.23.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.07.18.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.06.48.png",
+    "Captura de pantalla 2023-11-23 a la(s) 18.03.39.png",
+    "Captura de pantalla 2023-11-23 a la(s) 17.59.17.png",
     "Akkusativ.md",
+    "Languages/Deutsch/Unidad 8.md",
     "Statistics/Binomial Distribution.md",
     "Untitled 1",
     "Statistics/Probability Distribution.md",
@@ -198,13 +208,7 @@
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
     "Captura de pantalla 2023-10-20 a la(s) 12.51.43.png",
     "Captura de pantalla 2023-10-20 a la(s) 12.21.02.png",
-    "Captura de pantalla 2023-10-20 a la(s) 12.19.15.png",
-    "Captura de pantalla 2023-10-20 a la(s) 12.12.40.png",
-    "Captura de pantalla 2023-10-20 a la(s) 12.05.36.png",
-    "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
-    "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
-    "20231017_230951.png",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model/Stable Diffusion",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model",
@@ -231,9 +235,6 @@
     "Machine Learning/Machine Learning Engineer Certification/Feature Store.md",
     "Machine Learning/Keras.md",
     "All Reading - MLOps - Getting Started.pdf",
-    "Machine Learning/Algoritmo de Aprendizaje.md",
-    "Untitled 1.canvas",
-    "Pasted image 20230828171858.png",
-    "Roam/Turing/Attachments/imgs/app/Turing/Oi4cwT0lKz.png"
+    "Untitled 1.canvas"
   ]
 }
