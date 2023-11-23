@@ -200,8 +200,71 @@ In summary [[Vertex AI]] offers to achieve ML goals:
 * Simplified model management 
 
 ## Introduction to MLOps on [[Vertex AI]]
-## How does [[Vertex AI]] help with the MLOps workflow
+### MLOps
+A set of **standardized** processes and capabilities for building, deploying, and operationalizing ML systems **rapidly** and **reliably**
 
+MLOps concept
+MLOps aims to unify ML system development or ML with ML system operations or Ops. Automating and monitoring every step of ML system construction. And finally, it maintains aligned versions of data and models alongside code and components.
+
+**How does MLOps achieve each of these goals?**
+![[Captura de pantalla 2023-11-23 a la(s) 17.59.17.png]]
+
+Important to understand what ML engineering is, and how it is tighly couple with data engineering and app enginering
+
+### ML engineering
+Superset of the discipline of software enginerring and is disegned to handle the unique complexities of the practical application of ML.
+MLOps is one of the pracitces modified
+
+DE: ingesting, processing, and transform data, 
+APP: Design, migration app
+
+Engineering an ML-enable solution in a ciclic way between data, ml and app engineering
+
+MLOps lifecycle
+![[Captura de pantalla 2023-11-23 a la(s) 18.03.39.png]]
+ML dev
+Experimentation
+Training operationalization
+check when model works in production
+Continuous training
+You retrain prod model with new data
+Model deplyment
+Predicting serving
+Model serving online and bacth prediciton
+Continuous monitoring
+Model degradetion 
+
+Data & model managament
+The most important, to support auditability, traeability, compliance, shareabilit, reusability, and discoberability of ML assets
+	datasets, models, inputs file, trainig logs
+![[Captura de pantalla 2023-11-23 a la(s) 18.06.48.png]]
+Vertex AI automate some of the steps of the pipeline
+![[Captura de pantalla 2023-11-23 a la(s) 18.07.18.png]]
+
+Why Vertex serves for this purpose
+![[Captura de pantalla 2023-11-23 a la(s) 18.08.23.png]]
+
+4 reason Vertex work
+![[Captura de pantalla 2023-11-23 a la(s) 18.10.28.png]]
+
+## How does [[Vertex AI]] help with the MLOps workflow
+![[Captura de pantalla 2023-11-23 a la(s) 18.21.59.png]]
+Vertex was design to automate and scale the process
+
+1. Set up ML enviroments quickly
+2. Automate orchestration
+3. Manage large clusters
+4. Set up low latency apps
+
+Manage and govern
+Explaniation
+Experimentation
+#### Managing and governing capabilities.
+![[Captura de pantalla 2023-11-23 a la(s) 18.23.43.png]]
+#### Orchestrating ML workflows capabilities
+
+![[Captura de pantalla 2023-11-23 a la(s) 18.25.53.png]]
+#### Understand models behaviour
 ## Quiz
 * What is the MLOps life cycle iterative process that retrains you production models with the new data?
 	* Continuous training
