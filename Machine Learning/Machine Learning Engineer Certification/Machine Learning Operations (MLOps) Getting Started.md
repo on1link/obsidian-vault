@@ -266,8 +266,13 @@ Experimentation
 ![[Captura de pantalla 2023-11-23 a la(s) 18.25.53.png]]
 #### Understand models behaviour
 ## Quiz
-* What is the MLOps life cycle iterative process that retrains you production models with the new data?
-	* Continuous training
+START
+Basic
+What is the MLOps life cycle iterative process that retrains you production models with the new data?
+Back: Continuous training
+Tags: Machine Learning
+<!--ID: 1700833050080-->
+END
 * What component of an ML pipeline is responsible for deploying the model to any edge devices?
 	* Upload model and deploy endpoint
 * How does end-to-end MLOps help ML practitioners with the [[#ML lifecycle]].
