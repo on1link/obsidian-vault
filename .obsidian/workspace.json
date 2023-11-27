@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf44330787546e6",
+        "id": "487fb0e25a298291",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3cd3fd0cc7540c",
+            "id": "5ceb689580d0ab9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md"
+              }
             }
           },
           {
@@ -174,11 +182,16 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "fb3cd3fd0cc7540c",
+  "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
+    "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
+    "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
+    "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
+    "Captura de pantalla 2023-11-27 a la(s) 17.42.35.png",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
     "Captura de pantalla 2023-11-23 a la(s) 18.25.53.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.23.43.png",
@@ -187,8 +200,6 @@
     "Captura de pantalla 2023-11-23 a la(s) 18.08.23.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.07.18.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.06.48.png",
-    "Captura de pantalla 2023-11-23 a la(s) 18.03.39.png",
-    "Captura de pantalla 2023-11-23 a la(s) 17.59.17.png",
     "Akkusativ.md",
     "Languages/Deutsch/Unidad 8.md",
     "Statistics/Binomial Distribution.md",
@@ -198,7 +209,6 @@
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Untitled.canvas",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
-    "Captura de pantalla 2023-10-20 a la(s) 12.51.43.png",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model/Stable Diffusion",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model",

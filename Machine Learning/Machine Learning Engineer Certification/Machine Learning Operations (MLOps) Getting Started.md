@@ -200,6 +200,8 @@ In summary [[Vertex AI]] offers to achieve ML goals:
 * Simplified model management 
 
 ## Introduction to MLOps on [[Vertex AI]]
+
+## Summary
 ### MLOps
 A set of **standardized** processes and capabilities for building, deploying, and operationalizing ML systems **rapidly** and **reliably**
 
@@ -264,7 +266,66 @@ Experimentation
 #### Orchestrating ML workflows capabilities
 
 ![[Captura de pantalla 2023-11-23 a la(s) 18.25.53.png]]
-#### Understand models behaviour
+#### Understand models behavior
+There is the need to reveal the why behind model and its predictions
+
+Vertex Explainable AI
+* Provides robust, actionable explanations.
+	Feature-base explanaition
+	Feature importance into Vertex AI
+	Sample Shapley
+	Integrated gradients, and Explanation with ranked Area integrals (XRAI)
+* Is built into multiple Vertex AI services.
+* Is flexible, fast and scalable.
+![[Captura de pantalla 2023-11-27 a la(s) 17.42.35.png]]
+Fetaure attributions is supported by all type of mdoels
+	Frameworks
+		Tensorflow, scikit-learn, XGBoost
+	AutoML and custom-trained models
+	Modelities
+		Images, text, tabular, video
+
+Vertex Explainable AI offers three methods to use for feature attributions. Each one is based in Shapley values, a cooperate game theory altorigthm that assigns credit to each player in a game for a particular outcome.
+	Sampled Shapley
+	Integrated gradients
+	XRAI
+
+For more comparison attribution methods, see:
+	AI Explanations Whitepaper
+	Feature-based explanations documentation
+
+### Monitor
+Vertex AI is proactively monitoring the model
+	Monitor and alert
+	Diagnose
+	Update the model
+The model perform best when the prediction data is similar to the training data. When the input data deviates from the data used to train the model, the model's performance is deteriorate even if the model hasn't change.
+Vertex monitor the model's prediction input data for feature skew and drift. Training skew occurs when the feature data distribution and production deviates from the feature data distribution used to train the model.
+If the original data is available, you can enbale skew detection.
+Prediction drift occurs when feature data distribution and production changes significantly over time. If the original training data isn't available, you can enable drift detection to monitor the input data for changes over time.
+
+Track
+Tracking and comparing mutiple experiments runs and analyzing main model metrics.
+The goal is to identify the best model for a particular case.
+Vertex AI host different products to monitor and govern your models
+
+![[Captura de pantalla 2023-11-27 a la(s) 18.02.06.png]]
+
+Recall
+An artifact is a discrete entity or piece of data produced and consumed by an ML workflow. 
+A **context** is used to group artifacts and execution together under a single queriable and taped category.
+Context can be used to represent sets of metadata.
+Example: Run of ML pipeline
+
+Another Tool to track, visualize, and compare ML experiments and share is [[Vertex AI TensorBoard]] is an enterprise ready managed version of tensorboard.
+	Execution and artifacts of a pipeline run are viewable in the GC console.
+	Vertex AI TensorBoard provides detailed visualizations, including traicking and visualizing metrics.
+![[Captura de pantalla 2023-11-27 a la(s) 18.10.04.png]]
+
+Vertex AI Tabular Workflows
+![[Captura de pantalla 2023-11-27 a la(s) 18.10.23.png]]
+
+
 ## Quiz
 * What is the MLOps life cycle iterative process that retrains you production models with the new data?
 	* Continuous training
