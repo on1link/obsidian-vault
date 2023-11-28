@@ -325,6 +325,16 @@ Another Tool to track, visualize, and compare ML experiments and share is [[Vert
 Vertex AI Tabular Workflows
 ![[Captura de pantalla 2023-11-27 a la(s) 18.10.23.png]]
 
+## Lab
+### Learning objectives
+
+- Train a TensorFlow model locally in a hosted [Vertex AI Workbench](https://cloud.google.com/vertex-ai/docs/general/notebooks?hl=sv).
+- Create a [managed Tabular dataset](https://cloud.google.com/vertex-ai/docs/training/using-managed-datasets?hl=sv) artifact for experiment tracking.
+- Containerize your training code with [Cloud Build](https://cloud.google.com/build) and push it to [Google Cloud Artifact Registry](https://cloud.google.com/artifact-registry).
+- Run a [Vertex AI custom training job](https://cloud.google.com/vertex-ai/docs/training/custom-training) with your custom model container.
+- Use [Vertex TensorBoard](https://cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview) to visualize model performance.
+- Deploy your trained model to a [Vertex Online Prediction Endpoint](https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions) for serving predictions.
+- Request an online prediction and explanation and see the response.
 
 ## Quiz
 * What is the MLOps life cycle iterative process that retrains you production models with the new data?
