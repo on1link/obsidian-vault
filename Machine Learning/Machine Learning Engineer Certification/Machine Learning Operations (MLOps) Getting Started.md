@@ -335,6 +335,14 @@ Vertex AI Tabular Workflows
 - Use [Vertex TensorBoard](https://cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview) to visualize model performance.
 - Deploy your trained model to a [Vertex Online Prediction Endpoint](https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions) for serving predictions.
 - Request an online prediction and explanation and see the response.
+Vertex AI custom ML model training workflow
+There are two ways you can train a custom model on Vertex AI:
+
+Before you submit a custom training job, hyperparameter tuning job, or a training pipeline to Vertex AI, you need to create a Python training application or a custom container to define the training code and dependencies you want to run on Vertex AI.
+
+**1. Use a Google Cloud prebuilt container**: if you use a Vertex AI prebuilt container, you write a Python `task.py` script or Python package to install into the container image that defines your code for training a custom model. See [Creating a Python training application for a pre-built container](https://cloud.google.com/vertex-ai/docs/training/create-python-pre-built-container) for more details on how to structure you Python code. Choose this option if a prebuilt container already contains the model training libraries you need such as `tensorflow` or `xgboost` and you are just doing ML training and prediction quickly. You can also specific additional Python dependencies to install through the `CustomTrainingJob(requirements=...` argument.
+
+**2. Use your own custom container image**: If you want to use your own custom container, you write your Python training scripts and a Dockerfile that contains instructions on your ML model code, dependencies, and execution instructions. You will build your custom container with Cloud Build, whose instructions are specified in `cloudbuild.yaml` and publish your container to your Artifact Registry. Choose this option if you want to package your ML model code with dependencies together in a container to build toward running as part of a portable and scalable [Vertex Pipelines](https://cloud.google.com/vertex-ai/docs/pipelines/introduction) workflow. 
 
 ## Quiz
 * What is the MLOps life cycle iterative process that retrains you production models with the new data?
