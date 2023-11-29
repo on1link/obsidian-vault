@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roam/Turing/LSTM.md",
-                "mode": "preview",
-                "source": true
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 512.5086555480957
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roam/Turing/LSTM.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roam/Turing/LSTM.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roam/Turing/LSTM.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md"
               }
             }
           },
@@ -188,32 +187,38 @@
   },
   "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
-    "Roam/Turing/Wang, K2018 Deep belief network based on k-means cluster approach for short-term wind power forecasting.md",
-    "Roam/Turing/Cao, Q.2012 Forecasting wind speed with recurrent neural networks.md",
-    "Roam/Turing/Cao2017b.md",
-    "Roam/Turing/Support Vector Machines.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/Machine Learning in the Enterprise.md",
-    "Roam/Turing/Huang2018 A Short-Term Wind Speed Forecasting Model by Using Artificial Neural Networks with Stochastic Optimization for Renewable Energy Systems.md",
-    "Misc/Definiciones.md",
-    "Roam/Turing/Wang, D2017 Multi-step ahead wind speed forecasting using an improved wavelet neural network combining variational mode decomposition and phase space reconstruction.md",
-    "Roam/Turing/2020-05-13.md",
-    "Roam/Turing/Chu, J2019 Short-term wind speed prediction based on deep learning.md",
-    "Machine Learning/Machine Learning Engineer Certification/Recommendation Systems on Google Cloud.md",
-    "Roam/Turing/2020-07-22.md",
-    "Roam/Turing/2021-07-29.md",
-    "Roam/Turing/Zhao, F. A review on the prediction of building energy consumption.md",
-    "Roam/Turing/Ren, Y2014 A comparative study of empirical mode decomposition-based short-term wind speed forecasting methods.md",
-    "Roam/Turing/2022-08-21.md",
-    "Roam/Turing/Chen, C2018 Ultrashort-term forecasting of mid-low-altitude wind based on LSTM.md",
-    "Roam/Turing/Potter, C.2006 Very short-term wind forecasting for Tasmanian power generation.md",
-    "Roam/Turing/2022-09-01.md",
-    "Roam/Turing/Sun, W2018 Short-term wind speed forecasting based on fast ensemble empirical mode decomposition, phase space reconstruction, sample entropy and improved back-propagation neural network.md",
-    "Roam/Turing/Pascanu, R., Mikolov, T., Bengio, Y.2013 On the difficulty of training recurrent neural networks.md",
-    "Roam/Turing/LeCun;Bengio;Hinton2015 Deep learning.md",
-    "Roam/Turing/2020-05-15.md",
-    "Machine Learning/Deep Learrning/GRU.md",
+    "Cloud Logging.md",
+    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+    "Cloud Storage.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Machine Learning Operations (MLOps) Getting Started.md",
+    "Vertex AI and MLOps on Vertex AI.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Employing Machine Learning Operations.md",
+    "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
+    "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/ML metadata store.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
+    "DevOps.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Model Registry.md",
+    "Vertex AI TensorBoard.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with Cloud Composer.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
+    "Custom components and CI/CD for TFX pipelines.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
+    "Custom components and CI",
+    "Misc/Learning More effectevly.md",
+    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
+    "Roam/Turing/2020-07-08.md",
+    "Roam/Turing/Melis2019 Mogrifier LSTM.md",
+    "Roam/Turing/2021-11-06.md",
+    "Roam/Turing/Yesilbudak M.2013 A new approach to very short-term wind speed prediction using k-nearest neighbor classification.md",
+    "Roam/Turing/Shao, H.2016c Short-term wind speed forecasting using wavelet transformation and AdaBoosting neural networks in Yunnan wind farm.md",
+    "Roam/Turing/Discussion about Unreproducible Research is Reproducible.md",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+    "Roam/Turing/Alkahatib, A.2012 Detailed Analysis for Implementing a Short Term Wind Speed Prediction Tool using Artificial Neural Networks.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
     "Captura de pantalla 2023-11-27 a la(s) 17.42.35.png",
@@ -221,9 +226,6 @@
     "Captura de pantalla 2023-11-23 a la(s) 18.23.43.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.21.59.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.10.28.png",
-    "Captura de pantalla 2023-11-23 a la(s) 18.08.23.png",
-    "Captura de pantalla 2023-11-23 a la(s) 18.07.18.png",
-    "Akkusativ.md",
     "Untitled 1",
     "Untitled.canvas",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model/Stable Diffusion",
@@ -232,9 +234,6 @@
     "Machine Learning/Deep Learrning/Generative Model",
     "Untitled",
     "Templates",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
-    "Misc/Cognitive Behavioural Therapy",
-    "All Reading - MLOps - Getting Started.pdf",
     "Untitled 1.canvas"
   ]
 }
