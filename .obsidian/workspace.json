@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md"
               }
             }
           },
@@ -219,10 +218,29 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "831555e0206eec7a",
+  "active": "3b0651aa1edccbc3",
   "lastOpenFiles": [
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+    "Vertex AI and MLOps on Vertex AI.md",
+    "Vertex AI TensorBoard.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Model Registry.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Machine Learning Operations (MLOps) Getting Started.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/ML metadata store.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Employing Machine Learning Operations.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Machine Learning Operations (MLOps).md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with Cloud Composer.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud",
+    "DevOps.md",
+    "Custom components and CI/CD for TFX pipelines.md",
+    "Custom components and CI",
+    "Cloud Storage.md",
+    "Cloud Logging.md",
     "conflict-files-obsidian-git.md",
+    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
@@ -249,24 +267,6 @@
     "Machine Learning/Deep Learrning/Generative Model",
     "Untitled",
     "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
-    "2023-10-15.md",
-    "Templates",
-    "Excalidraw/Drawing 2023-10-15 01.12.14.excalidraw.md",
-    "Machine Learning/Deep Learrning/GRU.md",
-    "Machine Learning/one-hot encoding.md",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md.backup",
-    "Misc/Cognitive Behavioural Therapy",
-    "Misc/Definiciones.md",
-    "Misc/Learning More effectevly.md",
-    "Machine Learning/Deep Learrning/LSTM.md",
-    "Machine Learning/Deep Learrning/RNN.md",
-    "Machine Learning/Machine Learning Engineer Certification/BigQuery ML.md",
-    "Machine Learning/Machine Learning Engineer Certification/AutoML.md",
-    "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
-    "Machine Learning/Deep Learrning/Attention Mechanism.md",
-    "Roam/Turing/RNN.md",
-    "Machine Learning/Deep Learrning/Artificial Neural Networks.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
     "Untitled 1.canvas"
   ]
 }
