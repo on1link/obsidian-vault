@@ -10,9 +10,9 @@
 
 # Summary
 * Learned how to employing Machine Learning Operations, explore ML models from an operational perspective
-	* Examine the challenges that ML practitioners face when they operationalize ML models and deploy to production
-	* The concept of DevOps in ML and the phases of the ML lifecycle
-	* Main phases of an ML lifecycle, and how these phases map to tasks within MLOps
+	* Examine the challenges that ML practitioners face when they operationalize ML models and deploy to production.
+	* The concept of DevOps in ML and the phases of the ML lifecycle.
+	* Main phases of an ML lifecycle, and how these phases map to tasks within MLOps.
 * Learned [[Vertex AI]] and [[Machine Learning Operations (MLOps)]] on [[Vertex AI]]
 	* What vertex AI is
 	* MLOps capabilities of Vertex AI

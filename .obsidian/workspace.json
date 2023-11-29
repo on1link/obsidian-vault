@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
-                "mode": "source",
-                "source": false
+                "file": "Roam/Turing/LSTM.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
+                "file": "Roam/Turing/LSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
+                "file": "Roam/Turing/LSTM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md"
+                "file": "Roam/Turing/LSTM.md"
               }
             }
           },
@@ -186,8 +186,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3b0651aa1edccbc3",
+  "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
+    "Roam/Turing/Wang, K2018 Deep belief network based on k-means cluster approach for short-term wind power forecasting.md",
+    "Roam/Turing/Cao, Q.2012 Forecasting wind speed with recurrent neural networks.md",
+    "Roam/Turing/Cao2017b.md",
+    "Roam/Turing/Support Vector Machines.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning in the Enterprise/Machine Learning in the Enterprise.md",
     "Roam/Turing/Huang2018 A Short-Term Wind Speed Forecasting Model by Using Artificial Neural Networks with Stochastic Optimization for Renewable Energy Systems.md",
     "Misc/Definiciones.md",
@@ -208,7 +213,6 @@
     "Roam/Turing/LeCun;Bengio;Hinton2015 Deep learning.md",
     "Roam/Turing/2020-05-15.md",
     "Machine Learning/Deep Learrning/GRU.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
@@ -220,11 +224,7 @@
     "Captura de pantalla 2023-11-23 a la(s) 18.08.23.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.07.18.png",
     "Akkusativ.md",
-    "Languages/Deutsch/Unidad 8.md",
-    "Statistics/Binomial Distribution.md",
     "Untitled 1",
-    "Statistics/Probability Distribution.md",
-    "Misc/Learning More effectevly.md",
     "Untitled.canvas",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model/Stable Diffusion",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model",
