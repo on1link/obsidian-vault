@@ -10,9 +10,9 @@
 
 # Summary
 * Learned how to employing Machine Learning Operations, explore ML models from an operational perspective
-	* Examine the challenges that ML practitioners face when they operationalize ML models and deploy to production
-	* The concept of DevOps in ML and the phases of the ML lifecycle
-	* Main phases of an ML lifecycle, and how these phases map to tasks within MLOps
+	* Examine the challenges that ML practitioners face when they operationalize ML models and deploy to production.
+	* The concept of DevOps in ML and the phases of the ML lifecycle.
+	* Main phases of an ML lifecycle, and how these phases map to tasks within MLOps.
 * Learned [[Vertex AI]] and [[Machine Learning Operations (MLOps)]] on [[Vertex AI]]
 	* What vertex AI is
 	* MLOps capabilities of Vertex AI
@@ -200,6 +200,8 @@ In summary [[Vertex AI]] offers to achieve ML goals:
 * Simplified model management 
 
 ## Introduction to MLOps on [[Vertex AI]]
+
+## Summary
 ### MLOps
 A set of **standardized** processes and capabilities for building, deploying, and operationalizing ML systems **rapidly** and **reliably**
 
@@ -264,7 +266,84 @@ Experimentation
 #### Orchestrating ML workflows capabilities
 
 ![[Captura de pantalla 2023-11-23 a la(s) 18.25.53.png]]
-#### Understand models behaviour
+#### Understand models behavior
+There is the need to reveal the why behind model and its predictions
+
+Vertex Explainable AI
+* Provides robust, actionable explanations.
+	Feature-base explanaition
+	Feature importance into Vertex AI
+	Sample Shapley
+	Integrated gradients, and Explanation with ranked Area integrals (XRAI)
+* Is built into multiple Vertex AI services.
+* Is flexible, fast and scalable.
+![[Captura de pantalla 2023-11-27 a la(s) 17.42.35.png]]
+Fetaure attributions is supported by all type of mdoels
+	Frameworks
+		Tensorflow, scikit-learn, XGBoost
+	AutoML and custom-trained models
+	Modelities
+		Images, text, tabular, video
+
+Vertex Explainable AI offers three methods to use for feature attributions. Each one is based in Shapley values, a cooperate game theory altorigthm that assigns credit to each player in a game for a particular outcome.
+	Sampled Shapley
+	Integrated gradients
+	XRAI
+
+For more comparison attribution methods, see:
+	AI Explanations Whitepaper
+	Feature-based explanations documentation
+
+### Monitor
+Vertex AI is proactively monitoring the model
+	Monitor and alert
+	Diagnose
+	Update the model
+The model perform best when the prediction data is similar to the training data. When the input data deviates from the data used to train the model, the model's performance is deteriorate even if the model hasn't change.
+Vertex monitor the model's prediction input data for feature skew and drift. Training skew occurs when the feature data distribution and production deviates from the feature data distribution used to train the model.
+If the original data is available, you can enbale skew detection.
+Prediction drift occurs when feature data distribution and production changes significantly over time. If the original training data isn't available, you can enable drift detection to monitor the input data for changes over time.
+
+Track
+Tracking and comparing mutiple experiments runs and analyzing main model metrics.
+The goal is to identify the best model for a particular case.
+Vertex AI host different products to monitor and govern your models
+
+![[Captura de pantalla 2023-11-27 a la(s) 18.02.06.png]]
+
+Recall
+An artifact is a discrete entity or piece of data produced and consumed by an ML workflow. 
+A **context** is used to group artifacts and execution together under a single queriable and taped category.
+Context can be used to represent sets of metadata.
+Example: Run of ML pipeline
+
+Another Tool to track, visualize, and compare ML experiments and share is [[Vertex AI TensorBoard]] is an enterprise ready managed version of tensorboard.
+	Execution and artifacts of a pipeline run are viewable in the GC console.
+	Vertex AI TensorBoard provides detailed visualizations, including traicking and visualizing metrics.
+![[Captura de pantalla 2023-11-27 a la(s) 18.10.04.png]]
+
+Vertex AI Tabular Workflows
+![[Captura de pantalla 2023-11-27 a la(s) 18.10.23.png]]
+
+## Lab
+### Learning objectives
+
+- Train a TensorFlow model locally in a hosted [Vertex AI Workbench](https://cloud.google.com/vertex-ai/docs/general/notebooks?hl=sv).
+- Create a [managed Tabular dataset](https://cloud.google.com/vertex-ai/docs/training/using-managed-datasets?hl=sv) artifact for experiment tracking.
+- Containerize your training code with [Cloud Build](https://cloud.google.com/build) and push it to [Google Cloud Artifact Registry](https://cloud.google.com/artifact-registry).
+- Run a [Vertex AI custom training job](https://cloud.google.com/vertex-ai/docs/training/custom-training) with your custom model container.
+- Use [Vertex TensorBoard](https://cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview) to visualize model performance.
+- Deploy your trained model to a [Vertex Online Prediction Endpoint](https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions) for serving predictions.
+- Request an online prediction and explanation and see the response.
+Vertex AI custom ML model training workflow
+There are two ways you can train a custom model on Vertex AI:
+
+Before you submit a custom training job, hyperparameter tuning job, or a training pipeline to Vertex AI, you need to create a Python training application or a custom container to define the training code and dependencies you want to run on Vertex AI.
+
+**1. Use a Google Cloud prebuilt container**: if you use a Vertex AI prebuilt container, you write a Python `task.py` script or Python package to install into the container image that defines your code for training a custom model. See [Creating a Python training application for a pre-built container](https://cloud.google.com/vertex-ai/docs/training/create-python-pre-built-container) for more details on how to structure you Python code. Choose this option if a prebuilt container already contains the model training libraries you need such as `tensorflow` or `xgboost` and you are just doing ML training and prediction quickly. You can also specific additional Python dependencies to install through the `CustomTrainingJob(requirements=...` argument.
+
+**2. Use your own custom container image**: If you want to use your own custom container, you write your Python training scripts and a Dockerfile that contains instructions on your ML model code, dependencies, and execution instructions. You will build your custom container with Cloud Build, whose instructions are specified in `cloudbuild.yaml` and publish your container to your Artifact Registry. Choose this option if you want to package your ML model code with dependencies together in a container to build toward running as part of a portable and scalable [Vertex Pipelines](https://cloud.google.com/vertex-ai/docs/pipelines/introduction) workflow. 
+
 ## Quiz
 START
 Basic
