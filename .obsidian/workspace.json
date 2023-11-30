@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf44330787546e6",
+        "id": "487fb0e25a298291",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3cd3fd0cc7540c",
+            "id": "5ceb689580d0ab9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fb5761a86c85f13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "831555e0206eec7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4211759b16df9461",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 512.5086555480957
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -128,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md"
               }
             }
           },
@@ -196,11 +164,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,59 +182,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
-      "random-note:Open random note": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "random-note:Open random note": false
     }
   },
-  "active": "3b0651aa1edccbc3",
+  "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
-    "Vertex AI and MLOps on Vertex AI.md",
-    "Vertex AI TensorBoard.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Model Registry.md",
+    "Languages/Deutsch/Akkusativ.md",
+    "Cloud Logging.md",
+    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+    "Cloud Storage.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Machine Learning Operations (MLOps) Getting Started.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/ML metadata store.md",
+    "Vertex AI and MLOps on Vertex AI.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Employing Machine Learning Operations.md",
+    "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
+    "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/ML metadata store.md",
+    "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
+    "DevOps.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Model Registry.md",
+    "Vertex AI TensorBoard.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Machine Learning Operations (MLOps).md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with Cloud Composer.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud",
-    "DevOps.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
     "Custom components and CI/CD for TFX pipelines.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
     "Custom components and CI",
-    "Cloud Storage.md",
-    "Cloud Logging.md",
-    "conflict-files-obsidian-git.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
-    "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
+    "Misc/Learning More effectevly.md",
+    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
+    "Roam/Turing/2020-07-08.md",
+    "Roam/Turing/Melis2019 Mogrifier LSTM.md",
+    "Roam/Turing/2021-11-06.md",
+    "Roam/Turing/Yesilbudak M.2013 A new approach to very short-term wind speed prediction using k-nearest neighbor classification.md",
+    "Roam/Turing/Shao, H.2016c Short-term wind speed forecasting using wavelet transformation and AdaBoosting neural networks in Yunnan wind farm.md",
+    "Roam/Turing/Discussion about Unreproducible Research is Reproducible.md",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
     "Captura de pantalla 2023-11-27 a la(s) 17.42.35.png",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) with Vertex AI -  Manage Features.md",
-    "Statistics/Binomial Distribution.md",
-    "Languages/Deutsch/Akkusativ.md",
-    "Languages/Deutsch/Unidad 8.md",
-    "Languages/Deutsch",
-    "Languages",
     "Captura de pantalla 2023-11-23 a la(s) 18.25.53.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.23.43.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.21.59.png",
     "Captura de pantalla 2023-11-23 a la(s) 18.10.28.png",
-    "Captura de pantalla 2023-11-23 a la(s) 18.08.23.png",
-    "Captura de pantalla 2023-11-23 a la(s) 18.07.18.png",
+    "Untitled 1",
     "Untitled.canvas",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model/Stable Diffusion",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model/Latent Diffusion Model",
     "Machine Learning/Deep Learrning/Generative Model/Diffusion Model",
     "Machine Learning/Deep Learrning/Generative Model",
     "Untitled",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+    "Templates",
     "Untitled 1.canvas"
   ]
 }
