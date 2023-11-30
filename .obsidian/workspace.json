@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5086555480957
+    "width": 392.50271224975586
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +113,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
+                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md"
+                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md"
               }
             }
           },
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,38 +188,38 @@
   },
   "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Pipeline orchestration with TFX.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Untitled.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with Cloud Composer.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Machine Learning Operations (MLOps) Getting Started.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Vertex AI and MLOps on Vertex AI.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Employing Machine Learning Operations.md",
+    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps).md",
+    "Machine Learning/Machine Learning Engineer Certification/Model Registry.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML metadata store.md",
+    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
     "Languages/Deutsch/Akkusativ.md",
     "Cloud Logging.md",
-    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
     "Cloud Storage.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Machine Learning Operations (MLOps) Getting Started.md",
-    "Vertex AI and MLOps on Vertex AI.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Employing Machine Learning Operations.md",
     "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
     "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/ML metadata store.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
     "DevOps.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Model Registry.md",
     "Vertex AI TensorBoard.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with Cloud Composer.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
     "Custom components and CI/CD for TFX pipelines.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
     "Custom components and CI",
     "Misc/Learning More effectevly.md",
     "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
     "Roam/Turing/2020-07-08.md",
     "Roam/Turing/Melis2019 Mogrifier LSTM.md",
     "Roam/Turing/2021-11-06.md",
-    "Roam/Turing/Yesilbudak M.2013 A new approach to very short-term wind speed prediction using k-nearest neighbor classification.md",
-    "Roam/Turing/Shao, H.2016c Short-term wind speed forecasting using wavelet transformation and AdaBoosting neural networks in Yunnan wind farm.md",
-    "Roam/Turing/Discussion about Unreproducible Research is Reproducible.md",
-    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
     "Captura de pantalla 2023-11-27 a la(s) 17.42.35.png",
