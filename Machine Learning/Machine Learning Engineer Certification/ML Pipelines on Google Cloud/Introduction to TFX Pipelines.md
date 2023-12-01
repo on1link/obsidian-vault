@@ -46,7 +46,9 @@ Back:
 * ExampleValidator can assist in monitoring train/serving skew.
 	* ExampleValidator is a key part of a TFX continuous training pipeline that compares data splits against the schema artifact to identify train/serving skew that can negatively impact model performance.
 * ExampleValidator can identify data anomalies such as missing values, values outside expected ranges.
+	* ExampleValidator is a key part of a TFX continuous training pipeline that compares data splits against the schema artifact to identify data anomalies that can negatively impact model performance.
 * ExampleValidator can be configured to monitor for data drift that can negatively impact model performance.
+	* ExampleValidator is a key part of a TFX continuous training pipeline that compares data spans over time against the schema artifact to identify data drift that can negatively impact model performance.
 Tags: TFX Machine_learning_enginner_certification
 END
 # TFX
