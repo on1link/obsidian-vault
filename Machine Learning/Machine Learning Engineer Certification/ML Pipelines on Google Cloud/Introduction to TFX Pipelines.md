@@ -1,10 +1,59 @@
 ### Quiz
-
+START
+Which of the following are benefits of running TFX on Google Cloud? Select all that apply.
+* I: AI Platform Pipelines is the only supported orchestrator for TFX pipelines.
+* II: Simplify scaling of TFX pipeline data processing as your data grows.
+* III: Automate your ML operational processes for individual and multiple ML pipelines.
+* IV: Increase your pipeline development and experimentation velocity.
+Back:
+* II: Simplify scaling of TFX pipeline data processing as your data grows.
+	* Google Cloud’s managed Dataflow service enables scalable, distributed data processing for your TFX pipeline.
+* III: Automate your ML operational processes for individual and multiple ML pipelines.
+	* Google Cloud development tools like Cloud Functions, Container Registry, and Cloud Build streamline TFX pipeline code sharing, testing, deployment, and continuous training.
+* IV: Increase your pipeline development and experimentation velocity.
+	* Running TFX on Google Cloud enables you to run multiple pipelines in parallel on distributed resources with different sets of data splits, models, and hyperparameters to build and deploy TensorFlow models to production faster.
+Tags: TFX Machine_leargning_engineer_certification
+END
+START
+Which of the 5 parts of a TFX component is responsible for declaring a component’s input artifacts, output artifacts, and parameters for execution? Select one.
+* Component Executor
+* ComponentSpec
+* Component Interface
+* Component Driver
+Back:
+* ComponentSpec
+	* ComponentSpecs are classes for defining a component’s input artifacts, output artifacts, and runtime parameters required for component execution.
+Tags: TFX Machine_learning_engineer_certification
+END
+START
+How is TFX pipeline data organized after ingestion by the ExampleGen component? Select one.
+* Datasets, Versions, Splits
+* Datasets, Splits, Versions
+* Spans, Versions, Splits
+* Train, Dev, Test Splits.
+Back:
+* Datasets, Versions, Splits
+	* ExampleGen organizes data into Spans, which can contain multiple Versions, which can contain multiple Splits such as train, dev, and test for model performance evaluation.
+Tags: TFX Machine_learning_enginner_certification
+END
+START
+Which of the following are benefits of incorporating the ExampleValidator component into your ML project lifecycle? Select all that apply.
+* ExampleValidator generates a schema by inferring dataset properties that serves as a common data description for downstream components.
+* ExampleValidator can assist in monitoring train/serving skew.
+* ExampleValidator can identify data anomalies such as missing values, values outside expected ranges.
+* ExampleValidator can be configured to monitor for data drift that can negatively impact model performance.
+Back:
+* ExampleValidator can assist in monitoring train/serving skew.
+	* ExampleValidator is a key part of a TFX continuous training pipeline that compares data splits against the schema artifact to identify train/serving skew that can negatively impact model performance.
+* ExampleValidator can identify data anomalies such as missing values, values outside expected ranges.
+* ExampleValidator can be configured to monitor for data drift that can negatively impact model performance.
+Tags: TFX Machine_learning_enginner_certification
+END
 # TFX
 ## TensorFlow Extended
 Production-Scale ML Platform based on the TensorFlow Ecosystem
 Provides a flexible configuration framework 
-Make MLops easier through the ML lifecicle
+Make MLOps easier through the ML lifecycle
 Apache Airflow
 Apache Beam
 
@@ -12,7 +61,7 @@ Apache Beam
 	- Production-scale machine learning platform based on TensorFlow 
 	- Open-sourced in 2019, provides flexible configuration and shared libraries
 	- Simplifies MLOps through all phases of ML project life cycle
-	- Supports Apache Airflow, Apache Beam, and Kubeflow
+	- Supports Apache Airflow, Apache Beam, and [[Kubeflow]]
 	- Deployment targets: TF Serving, TF Lite, TensorFlow JS, TFO
 	- Portable to various platforms, including on-premise and Google Cloud
 - Benefits of TFX on Google Cloud:
