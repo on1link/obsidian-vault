@@ -83,13 +83,21 @@ Apache Beam
 	- Running TFX on Google Cloud supports infrastructure at scale
 # TFX concepts
 ## Component
-A TFX component
-	Five elements
-	Component specification
-	Component driver
-	Component executor
-	Component publusher
-	Component interface
+A TFX component is an implementation of the machine learning task in your pipeline.
+	They're designed to be modular and extensible.
+	With Google's best practices on tasks:
+		* Data partitioning
+		* Validation
+		* Transformation
+Each step in the pipeline is a component, produces and consumes **structured data representations** called **artifacts**. This way transfer data between components during the continuous exec of the pipeline.
+
+Components composition:
+	Component specification: How the component communicate with each other.
+	Component driver: Driver class, coordinates compute job execution.
+	Component executor: Executor class, implements the actual code to perform a step of the ML workflow.
+	Component interface: Packages the component specification and executer for use in a pipeline.
+	Component publisher.
+	
 
 Artifacst
 Components at runtime
