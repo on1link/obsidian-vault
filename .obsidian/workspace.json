@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
+                "file": "Roam/Turing/Teoría de Hipótesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.50271224975586,
-    "collapsed": true
+    "width": 392.50271224975586
   },
   "right": {
     "id": "5efaff7fe624f53f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
+                "file": "Roam/Turing/Teoría de Hipótesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
+                "file": "Roam/Turing/Teoría de Hipótesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md"
+                "file": "Roam/Turing/Teoría de Hipótesis.md"
               }
             }
           },
@@ -190,9 +189,11 @@
   },
   "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
+    "Roam/Turing/2020-05-27.md",
+    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
+    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
     "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Pipeline orchestration with TFX.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
@@ -220,8 +221,6 @@
     "Custom components and CI/CD for TFX pipelines.md",
     "Custom components and CI",
     "Misc/Learning More effectevly.md",
-    "Machine Learning/Machine Learning Engineer Certification/Design and Build an Input Data Pipeline.md",
-    "Roam/Turing/2020-07-08.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
     "Captura de pantalla 2023-11-27 a la(s) 17.42.35.png",

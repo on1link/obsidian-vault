@@ -1,22 +1,22 @@
-  * ¿Cómo formular Hipótesis?
-    * Identificar un problema (Parsimonia)
-    * Extracción de características (Variables)
-    * Preciar conceptos (Ambigüedades)
-    * Tipo de Escala de medición (descripción, relaciones y diferencias, medidas de desempeño)
-    * Evite usar variables categóricas (si/no)
-  * Propiedades de una Hipótesis
-    * Debe ser simple, específica e informativa, medible, falsable, verificable, reproducible y concepcualmente clara
+# ¿Cómo formular una Hipótesis?
+1. Se debe Identificar un problema (Parsimonia)
+2. Extracción de características (Variables)
+3. Preciar conceptos (Ambigüedades)
+4. Tipo de Escala de medición (descripción, relaciones y diferencias, medidas de desempeño)
+5. Se debe evitar usar variables categóricas (si/no)
+# Propiedades de una Hipótesis
+    * Debe ser simple, específica e informativa, medible, falsable, verificable, reproducible y conceptualmente clara
       * La Ambigüedad hace que verificación sea muy difícil de confirmar o refutar
       * Existen métodos y técnicas de adquisición de datos y de análisis interactivo de estos.
     * Se deben relacionar al **cuerpo del conocimiento** ya existente, **cinturón protector** (**hipótesis auxiliar informativa**)
     * Su validación aporta conocimiento al área
     * La hipótesis debe ser "**operacionalizable**"
     * La hipótesis se de expresar en términos de variables que puede ser medidas.
-  * Tipos de variables
-    * Variables Independientes
+## Tipos de variables
+### Variables Independientes
       * Son variables que controla el investigador o quién diseña el experimento
-      * Son las que el diseñador cambia para estudiaar ciertos efectos princpiales e interacciones que afectan la respuesta.
-    * Variables Dependientes
+      * Son las que el diseñador cambia para estudiar ciertos efectos principales e interacciones que afectan la respuesta.
+### Variables Dependientes
       * Son las variables de respuesta que se miden o observan a partir de los cambios deliberados en las variables independientes.
       * Las variables de respuesta dan cuenta de los efectos que producen los cambios en las variables independientes.
   * Test de Hipótesis
@@ -27,55 +27,55 @@
         * Hipótesis Alternativas
           * Hipótesis A v/s Hipótesis B
           * Donde A y B son mutuamente excluyentes (no pueden cumplirse simultáneamente)
-          * Hipótesis Nula: ($$H_0$$) v/s Hipótesis Alternativa: ($$H_1$$)
+          * Hipótesis Nula: ($H_0$) v/s Hipótesis Alternativa: ($H_1$)
         * Hipótesis Anidadas
-          * Hipótesis A y B, donde A es un caso especial de B. $$A \subset B$$
+          * Hipótesis A y B, donde A es un caso especial de B. $A \subset B$
         * Hipótesis Secuenciales
-        * Hipótesis Simple sobre $$\theta$$
-          * El parámetro $$\theta$$ toma un valor único
-        * Hipótesis compuesta sobre $$\theta$$
-          * El parámetro $$\theta$$ se le asignan varios valores.
-        * Hipótesis Nula ($$H_0$$) es la hipótesis que se somete a prueba.
+        * Hipótesis Simple sobre $\theta$
+          * El parámetro $\theta$ toma un valor único
+        * Hipótesis compuesta sobre $\theta$
+          * El parámetro $\theta$ se le asignan varios valores.
+        * Hipótesis Nula ($H_0$) es la hipótesis que se somete a prueba.
           * Esta hipótesis se mantendrá a no ser que los datos indiquen lo contrario (R)
           * Esta hipótesis nunca se considera probada
-        * Hipótesis Alternativa $(H_1)$ ^lbrWeg-GG es la hipótesis del cambio contrapuesta a $$H_0$$
+        * Hipótesis Alternativa $(H_1)$ ^lbrWeg-GG es la hipótesis del cambio contrapuesta a $H_0$
         * ![[Roam/Turing/Attachments/imgs/app/Turing/22ciiCez7k.png]]
     * ### Elementos de una prueba de Hipótesis
     * Prueba de Hipótesis Estadística
-      * Es una regla $$\gamma$$ (procedimiento) para decidir si rechazamos una hipótesis $$H_0$$, a partir de los datos obtenidos (experimental u observacional).
+      * Es una regla $\gamma$ (procedimiento) para decidir si rechazamos una hipótesis $H_0$, a partir de los datos obtenidos (experimental u observacional).
     * 1. Hipótesis Nula $(H_0)$ ^WLB7FCy9Y
-      * Hipótesis Alternativa $$(H_1)$$
-    * 2. Construir una estadística de Prueba T basada en al m. a. $$x_1$$, $$x_2$$, ...,$$x_{n-1}$$, $$x_n$$, que no depende de $$\theta$$
+      * Hipótesis Alternativa $(H_1)$
+    * 2. Construir una estadística de Prueba T basada en al m. a. $x_1$, $x_2$, ...,$x_{n-1}$, $x_n$, que no depende de $\theta$
       * Estadística de Prueba
-        * Es una función de los datos (Estadística de prueba). Interesa que contenga el máximo de información sobre la hipótesis $$H_0$$. Es en base a la información contenida en esta estadística que decidiremos respecto de $$H_0$$
-    * Medida de Discrepancia $$T(x_1, ..., x_n)$$
-    * 3. Particionar el espacio de información $$X = C \cup C^c$$
-    * Región de Rechazo $$C$$
-    * Región de Aceptación $$C^c$$
+        * Es una función de los datos (Estadística de prueba). Interesa que contenga el máximo de información sobre la hipótesis $H_0$. Es en base a la información contenida en esta estadística que decidiremos respecto de $H_0$
+    * Medida de Discrepancia $T(x_1, ..., x_n)$
+    * 3. Particionar el espacio de información $X = C \cup C^c$
+    * Región de Rechazo $C$
+    * Región de Aceptación $C^c$
     * Región Crítica:
-      * Define los valores de la estadística de Prueba para los cuales se tiene evidencia contra $$H_0$$. (No existe una única RC)
+      * Define los valores de la estadística de Prueba para los cuales se tiene evidencia contra $H_0$. (No existe una única RC)
     * 4. Regla de Decisión (Se refuta o se mantiene)
       * Regla de Decisión
-        * Procedimiento que acepta o rechada $$H_0$$, dependiendo del valor de la estadística de Prueba: $$T(x_1,x_2,...,x:n)$$
+        * Procedimiento que acepta o rechada $H_0$, dependiendo del valor de la estadística de Prueba: $T(x_1,x_2,...,x:n)$
     * Nivel de significancia
-      * Este valor $$\alpha$$ determina el valor crítico $$c$$
-        * $$P(T>c|H_0) = \alpha$$
-        * El procedimiento de selección de "$$c$$" a partir de $$\alpha$$ tiene varias críticas
-      * Limitaciones de $$\alpha$$
-        * El resultado del contraste depende de la selección de $$\alpha$$
+      * Este valor $\alpha$ determina el valor crítico $c$
+        * $P(T>c|H_0) = \alpha$
+        * El procedimiento de selección de "$c$" a partir de $\alpha$ tiene varias críticas
+      * Limitaciones de $\alpha$
+        * El resultado del contraste depende de la selección de $\alpha$
         * Este valor sólo nos proporciona el resultado del Contraste (Confirmación/Refutar: Dicotómia V/F)
-        * No permite diferenciar entre diversos grados de evidencia que la muestra indica a favor o en contra de $$H_0$$
-        * Valor $$p$$ (p-value) crítico ó crítico de Fisher.
+        * No permite diferenciar entre diversos grados de evidencia que la muestra indica a favor o en contra de $H_0$
+        * Valor $p$ (p-value) crítico ó crítico de Fisher.
         * Test severos de Debora Mayo
     * ### Errores y potencia de un Test
       * **Error Tipo I**
-        * Rechaza $$H_0$$ (cuando es verdadero)
-        * $$P($$Error Tipo I$$)|H_0) = P_{\theta}(C) = \alpha(\theta)$$, $$\theta \in \Theta_0$$
+        * Rechaza $H_0$ (cuando es verdadero)
+        * $P($Error Tipo I$)|H_0) = P_{\theta}(C) = \alpha(\theta)$, $\theta \in \Theta_0$
       * **Error Tipo II**
-        * Acepta $$H_0$$ (cuando es falso)
-        * $$P($$Error Tipo II$$)|H_1) = P_{\theta}(C^c) = \beta(\theta)$$, $$\theta \in \Theta_1$$
+        * Acepta $H_0$ (cuando es falso)
+        * $P($Error Tipo II$)|H_1) = P_{\theta}(C^c) = \beta(\theta)$, $\theta \in \Theta_1$
       * **Función Potencia**
-        * Fijada la región crítica $$C$$ podemos definir la función:
+        * Fijada la región crítica $C$ podemos definir la función:
         * $$\pi_C: \Theta \rightarrow [0,1]$$, $$\pi_C(\theta) = P_{\theta}(C)$$ con $$\theta \in \Theta$$
     * ### Distribuciones muestrales
     * ### Tipos de Errores involucrados
