@@ -195,21 +195,22 @@ Relationship between two variables
 Important for:
 * Communication
 * Prediction
-* Indentification of unusual cases 
-$$ \hat{y} = bx + a $$
-            $ \hat{y} $  is the predicted value of $ y $
-             $ a $ **regression intercept** or constant
-              * It is the predicted value of $$ \hat{y}$$ when the regression line crosses the $$y$$ axis and $$x$$ does equal 0
-            * $$ b $$ is the **regression coefficient** or slope
-              * It is the change of $$y$$ when $$x$$ increases with one unit
-          * Very useful because it can help to make **predictions** about the dependent variable by means of the **regression equation** or formula with much more precission 
-          * ** Note ** When you know the means and the standard deviations of the variables and also the corresponding Pearson's r, it can be use two formulas
-            * $$ b = r \frac{S_y}{S_x} $$ computes the regression coefficient (unstandardized Pearson's r)  
-            * $$ a = \overline{y} - b(\overline{x}) $$ computes the regression intercept
+* Identification of unusual cases 
+Definition: $$ \hat{y} = bx + a $$, donde:
+	$\hat{y}$ is the predicted value of $y$.
+	$a$ **regression intercept** or constant:
+		It is the predicted value of $\hat{y}$ when the regression line crosses the $y$ axis and $x$ does equal $0$.
+	$b$ is the **regression coefficient** or slope:
+		It is the change of $y$ when $x$ increases with one unit
+Is very useful because it can help to make **predictions** about the dependent variable by means of the **regression equation** or formula with much more precision 
+**Note**
+When you know the **means** and the **standard deviations** of the variables and also the corresponding Pearson's $r$, it can be used two formulas,
+            $b = r \frac{S_y}{S_x}$ computes the regression coefficient (unstandardized Pearson's r).
+            $a = \overline{y} - b(\overline{x})$ computes the regression intercept.
 ### How well does the regression line fit the data?
-        * The reason is to know how accuracy of predictions analysis are.
+The reason is to know how accuracy of predictions analysis are.
 ### r-squared 
-          * It is expressed by means of the $$r^2$$
+          * It is expressed by means of the $r^2$
             * Is closely related to the Pearson's r $$ r^2 = $$ pearson's  squared
             * With perfect linear fit 
               * $$ r = 1 $$ and $$ r^2 = 1 $$
@@ -217,17 +218,17 @@ $$ \hat{y} = bx + a $$
           * How much better a regression line predicts your dependent variable than the mean of the dependent variable.
           * It use the residuals too
           * Example
-            * $$ r^2 = 0.69 $$ The prediction error is 69% smaller than when you use the mean of the dependent variable
+            * $r^2 = 0.69$ The prediction error is 69% smaller than when you use the mean of the dependent variable
           * Another definition:
             * The amount of the variance in the dependent variable ($$y$$) that is explained by the independent variable ($$x$$)
             * Explained variance is the percentage of hte variance in the dependent variable that can be explained using the formula of the regression line.
             * Example
-              * $$ r^2 = 0.69 $$ 69% of the variance in the grades can be predicted by the previous grades
-    * ## Caveats and examples
-      * ==Correlation is not Causation==
-        * On a basis of a regression analysis you never prove that there are a causal relationship between two variables
-        * Causality can run in both directions, or the opposite direction.
-        * We can have a third variable that explains both the independent and the dependent variable. This is called a confounding variables if it is included in the study. If it is not but could have the potential for confounding, we would call it a lurking variable.
+              * $r^2 = 0.69$ 69% of the variance in the grades can be predicted by the previous grades
+## Caveats and examples
+*==Correlation is not Causation==*
+    On a basis of a regression analysis you never prove that there are a causal relationship between two variables.
+    Causality can run in both directions, or the opposite direction.
+    We can have a third variable that explains both the independent and the dependent variable. This is called a confounding variables if it is included in the study. If it is not but could have the potential for confounding, we would call it a lurking variable.
 ### Outliers can impact on the results of a study 
 Always check for influential outliers, especially when you are working with a small sample.
 They can have a strong efffects on the results of an analysis.
