@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roam/Turing/Teoría de Hipótesis.md",
+                "file": "Statistics/Descriptive Statistics.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roam/Turing/Teoría de Hipótesis.md",
+                "file": "Statistics/Descriptive Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roam/Turing/Teoría de Hipótesis.md",
+                "file": "Statistics/Descriptive Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roam/Turing/Teoría de Hipótesis.md"
+                "file": "Statistics/Descriptive Statistics.md"
               }
             }
           },
@@ -189,38 +189,38 @@
   },
   "active": "5ceb689580d0ab9c",
   "lastOpenFiles": [
-    "Roam/Turing/2020-05-27.md",
-    "Machine Learning/Machine Learning Engineer Certification/Feature Engineering.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Introduction to TFX Pipelines.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Resumen.md",
-    "Machine Learning/Machine Learning Engineer Certification/Certification Test/Preguntas de ensayo.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Pipeline orchestration with TFX.md",
+    "Statistics/Confidence Intervals.md",
+    "Statistics/Binomial Distribution.md",
+    "Roam/Turing/2021-11-25.md",
+    "Roam/Turing/Koutnik, J.2014 A clockwork rnn.md",
+    "2023-10-15.md",
+    "Misc/Cognitive Behavioural Therapy/Terapia Cognitivo Conductual.md",
+    "Roam/Turing/Chang, G.2017 An improved neural network-based approach for short-term wind speed and power forecast.md",
+    "Roam/Turing/Data Mining.md",
+    "Roam/Turing/Racionalismo.md",
+    "Roam/Turing/Cadenas, E.2010 Wind speed forecasting in three different regions of Mexico, using a hybrid ARIMA-ANN model.md",
+    "Roam/Turing/Liu, H2018 Smart deep learning based wind speed prediction model using wavelet packet decomposition, convolutional neural network and convolutional long short term memory network.md",
+    "Machine Learning/Machine Learning Engineer Certification/TensorFlow on Google Cloud/Introduction to the Tensorflow ecosystem.md",
+    "Roam/Turing/Teoría de Hipótesis.md",
+    "Roam/Turing/2020-07-21.md",
+    "Roam/Turing/Wang, J.2015 Medium-term wind speeds forecasting utilizing hybrid models for three different sites in Xinjiang, China.md",
+    "Roam/Turing/Merity2019 Single Headed Attention RNN Stop Thinking With Your Head.md",
+    "Roam/Turing/Huang;Vaswani2018 An improved relative self-attention mechanism  for transformer with application to music generation.md",
+    "Roam/Turing/ICPRS2021.md",
+    "Roam/Turing/Lawan, S. M.2014 Different Models of Wind Speed Prediction; A Comprehensive Review.md",
+    "Roam/Turing/2020-07-10.md",
+    "Roam/Turing/Positivism.md",
+    "Roam/Turing/Jiao, R2018 A model combining stacked auto encoder and back propagation algorithm for short-term wind power forecasting.md",
+    "Roam/Turing/Zhang, C.2015 Predictive deep boltzmann machine for multiperiod wind speed forecasting.md",
+    "Roam/Turing/Malik, H.2016 Application of artificial neural network for long-term wind speed prediction.md",
+    "Roam/Turing/Cao, Y2018 Multi-step wind power forecasting model using LSTM networks, similar time series and lightGBM.md",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines on Google Cloud.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Pipelines with MLflow.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Untitled.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/ML Metadata with TDX.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with Cloud Composer.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Machine Learning Operations (MLOps) Getting Started.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Vertex AI and MLOps on Vertex AI.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started/Employing Machine Learning Operations.md",
-    "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps).md",
-    "Machine Learning/Machine Learning Engineer Certification/Model Registry.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML metadata store.md",
-    "Machine Learning/Machine Learning Engineer Certification/Production Machine Learning Systems.md",
-    "Languages/Deutsch/Akkusativ.md",
-    "Cloud Logging.md",
-    "Cloud Storage.md",
     "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
     "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
-    "DevOps.md",
-    "Vertex AI TensorBoard.md",
     "Machine Learning/Machine Learning Engineer Certification/Machine Learning Operations (MLOps) Getting Started",
     "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud",
-    "Custom components and CI/CD for TFX pipelines.md",
     "Custom components and CI",
-    "Misc/Learning More effectevly.md",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.04.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.02.06.png",
     "Captura de pantalla 2023-11-27 a la(s) 17.42.35.png",

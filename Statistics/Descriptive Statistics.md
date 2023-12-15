@@ -1,34 +1,33 @@
-  * # Exploring Data
-    * ## Data and visualisation
-      * Cases
-        * Something or someone
-      * Variables
-        * Characteristics of something or someone
-        * Meets one essential criterion and it needs to have variation
-          * e.g All football teams are in the same country (no variation) 
-        * Levels of measurement
-          * Categorical Variables:
-            * Nominal: Made up of various categories that differ from each other
-              * Difference (+); Order (-); Similar intervals (-); Meaningful zero point (-)
-            * Ordinal:
-              * Difference (+); Order (+); Similar intervals (-); Meaningful zero point (-)
-              * Position in the table of teams
-            * Quantitative Variables (Discrete: set of separte numbers, Continuous: infinite region fo values)
-              * Interval
-                * Difference (+); Order (+); Similar intervals (+); Meaningful zero point (-)
-                * Age of football player
-              * Ratio
-                * Difference (+); Order (+); Similar intervals (+); Meaningful zero point (+)
-                * Body height
-      * Constant
+# Exploring Data
+## Data and visualization
+Cases
+	Something or someone
+	Variables
+	    Characteristics of something or someone
+	    Meets one essential criterion and it needs to have variation, e.g All football teams are in the same country (no variation). 
+### Levels of measurement
+Categorical Variables:
+	Nominal: Made up of various categories that differ from each other
+	     Difference (+); Order (-); Similar intervals (-); Meaningful zero point (-)
+    Ordinal:
+	    Difference (+); Order (+); Similar intervals (-); Meaningful zero point (-)
+        Position in the table of teams
+Quantitative Variables (Discrete: set of separate numbers, Continuous: infinite region for values)
+Interval
+	Difference (+); Order (+); Similar intervals (+); Meaningful zero point (-)
+	    Age of football player
+    Ratio
+	    Difference (+); Order (+); Similar intervals (+); Meaningful zero point (+)
+         Body height
+	Constant
         * Something that have no variation on the cases
       * **Data matrix**
         * Necessary for all statistical analyses
         * Cases (row) | Variables ( colums )
         * One cell in the matrix is called **observation**
         *  In practice there are too huge, so we need summarize them
-      * ## Summary of data
-        * ### Categorical (nominal or ordinal) 
+## Summary of data
+### Categorical (nominal or ordinal) 
           * Frequency tables
             * Show how the values are distributed over the cases
             * In terms of frecuency, percentage (relative frecuencies), cumulative percentage.
@@ -61,15 +60,15 @@
               * Skewed to the right or left
               * Two peaks (The variable means its bimodal instead of unimodal)
 
-    * ## Measures of central tendency and dispersion
+## Measures of central tendency and dispersion
       * Measures of central tendency (Center of the distribution)
-        * ### For categorical variables
+### For categorical variables
           * Mode
             * The value that occurs most frequently
             * The most common outcome
             * Often use on nominal or ordinal level
             * Can be more than one mode in the distribution (bi-modal distribution)
-        * ### For quantitative variables
+### For quantitative variables
           * Median 
             * Can't do it with nominal variables
             *  The middle value of your observations when arranged from the smallest to the largest
@@ -121,13 +120,13 @@
           * $$ S =  \sqrt{\frac{\sum{(x - \overline{x})^2}}{n - 1}}$$
           * Can be seen as the average distance of an observation from the [[Descriptive Statistics#^qSAfbOB72|Mean]]
           
-    * ## Z-score
-      * **Z-score**: Used to know if a specific observation is common or excepcional. Give information about how extreme an observation is. Useful to compare different distributions.
-      * Is a score in terms of the number of standard deviations it is removed from the mean. This number is called z-score.
-      * If we recode original scores into z-scores, we say that we **standardize** a variable $$ Z = \frac{x - \overline{x}}{S}$$
-        * Negative z-scores represent values below the mean
-        * Positive z-scores represent values above the mean
-        * The negative and positive z-scores cancel each others, their sum is equal to zero
+## Z-score
+**Z-score**: Used to know if a specific observation is common or excepcional. Give information about how extreme an observation is. Useful to compare different distributions.
+	Is a score in terms of the number of standard deviations it is removed from the mean. This number is called z-score.
+	If we recode original scores into z-scores, we say that we **standardize** a variable: $$ Z = \frac{x - \overline{x}}{S}$$
+    Negative z-scores represent values below the mean
+    Positive z-scores represent values above the mean
+    The negative and positive z-scores cancel each others, their sum is equal to zero
       * How to know if a z-score is low or high 
         * Depends on the distribution and on context
         * If the distribution is bell-shaped
@@ -146,17 +145,16 @@
         * Recode original scores into z-scores. We standardize a variable
         * **Replace the original scores by standard deviations from the mean**
         * The advantage: easy to see whether a specific score is relative common or exceptional
-  * # Correlation and Regression
-    * ## Correlation
-      * **Correlation**
-        * Relationship between two variables
+# Correlation and Regression
+## Correlation
+Relationship between two variables
       * Display relationship of two variables by means of tables and graphs
-      * **Contigency tables**
+### Contigency tables
         * Enables to display the relationship between two **ordinal** or **nominal** variables, it's similar to a frecuency table (the difference is that frecuency table concenrs one variable)
         * Columns by numbers not indicate too much, it is better transform into column percentages in the form of proportions, called **conditional proportions**
           * Their formation is conditional on another variable
         * Using the count in the margin of the table, these are called **marginal proportions** 
-      * **Scatterplot**
+### Scatterplot
         * Useful for **quantative** variables 
         * We display two axes (x independent and y dependent variable; if no dependency the choose of each axis is a mather of choice)
         * Next display every observation in the figure.
@@ -181,26 +179,26 @@
         * **important note**
           * You can always compute a Pearson's r, even if the relationship is not linear
           * Check scaterplot before you calculate Pearson's r to see if the variables are linearly related. If not, do not compute a Pearson's r, because it doesn't tell much about relationship between your variables.
-    * ## Regression
-      * ### Regression Analysis 
-      * ### Regression Line 
+## Regression
+### Regression Analysis 
+### Regression Line 
         * The line that best represents the linear correlation between two quantitative variables in a scatterplot
         * The best fitting line is called a regression line, and the name of the method of analysis is called **ordinary least squares regression** (which refers to the way the line is found)
         * From a given line on the scatterplot we measure the vertical distance between a observation and the line
           * Every distance is called a residual
           * Exists positive residuals (cases from above the line )and negative residuals (cases from below the line)
           * Do it for every posible line in the scatterplot. In practice is impossible, and the trick is to minimize the square of the least residuals
-        * ### Sum of the squared residuals
+### Sum of the squared residuals
           * Residual: Vertical distance of the cases in your scatterplot to the line
           * Used to choose a regression line where the sum of the squared residuals is the smallest (squared because positive and negative residuals cancel each other)
-        * ### How to describe a regression line?
-          * Important for:
-            * Communication
-            * Prediction
-            * Indentification of unusual cases
-          * $$ \hat{y} = bx + a $$
-            * $$ \hat{y} $$  is the predicted value of $$ y $$
-            * $$ a $$ **regression intercept** or constant
+### How to describe a regression line?
+Important for:
+* Communication
+* Prediction
+* Indentification of unusual cases 
+$$ \hat{y} = bx + a $$
+            $ \hat{y} $  is the predicted value of $ y $
+             $ a $ **regression intercept** or constant
               * It is the predicted value of $$ \hat{y}$$ when the regression line crosses the $$y$$ axis and $$x$$ does equal 0
             * $$ b $$ is the **regression coefficient** or slope
               * It is the change of $$y$$ when $$x$$ increases with one unit
@@ -208,9 +206,9 @@
           * ** Note ** When you know the means and the standard deviations of the variables and also the corresponding Pearson's r, it can be use two formulas
             * $$ b = r \frac{S_y}{S_x} $$ computes the regression coefficient (unstandardized Pearson's r)  
             * $$ a = \overline{y} - b(\overline{x}) $$ computes the regression intercept
-      * ### How well does the regression line fit the data?
+### How well does the regression line fit the data?
         * The reason is to know how accuracy of predictions analysis are.
-        * ### r-squared 
+### r-squared 
           * It is expressed by means of the $$r^2$$
             * Is closely related to the Pearson's r $$ r^2 = $$ pearson's  squared
             * With perfect linear fit 
@@ -230,7 +228,7 @@
         * On a basis of a regression analysis you never prove that there are a causal relationship between two variables
         * Causality can run in both directions, or the opposite direction.
         * We can have a third variable that explains both the independent and the dependent variable. This is called a confounding variables if it is included in the study. If it is not but could have the potential for confounding, we would call it a lurking variable.
-      * ### Outliers can impact on the results of a study 
-        * Always check for influential outliers, especially when you are working with a small sample
-        * They can have a strong efffects on the results of an analysis.
-        * They can be the result of wrong measurement, and might want to delete the case.
+### Outliers can impact on the results of a study 
+Always check for influential outliers, especially when you are working with a small sample.
+They can have a strong efffects on the results of an analysis.
+They can be the result of wrong measurement, and might want to delete the case.
