@@ -44,28 +44,26 @@ A way to quantify probabilities for these events in a tree diagram is through an
 * e.g. assume that both outcomes for each elementary event are equally likely
 	* You will never know whether your assessment of the probability was correct
 # Probability & Sets
-    * Sets: Collections of items
-      * Useful for understand probability
-      * Calculation rules for probabilities
-      * Used in logic and probability calculus
-    * Disjoint events (mutually exclusive):
-      * Two or more events in a sample space that do not share any outcomes
-      * A special pair of disjoint event: The combination of an event and the case that this event is not happening (complement of an event)
-      * The sum of the probabilties of disjoint events is less or equal to one
-        * $$\sum P(disjoint events) \leq 1$$
-    * Collectively exhaustive events:
-      * Multiple events which together fill-up the complete sample space
+## Sets
+Collections of items
+* Useful for understand probability
+* Calculation rules for probabilities
+* Used in logic and probability calculus
+* Disjoint events (mutually exclusive):
+	* Two or more events in a sample space that do not share any outcomes
+	* A special pair of disjoint event: The combination of an event and the case that this event is not happening (complement of an event)
+	* The sum of the probabilities of disjoint events is less or equal to one $$\sum P(\text{disjoint events}) \leq 1$$
+* Collectively exhaustive events:
+	* Multiple events which together fill-up the complete sample space
         * If they not overlap they will **disjoint collectively exhaustive**
-      * The sum of the probabilities of disjoint and collectively exhaustive events is one
-        * $$\sum P(disjoint \& collectively exhaustive events ) = 1$$
-    * Venn-Diagram
-      * For disjoint events the intersection is zero by definition: $$P(A and B) = 0$$
-      *  For not disjoint events:
-        * Assume the events are independent
-        * Intersection: $$P(A) * P(B)$$
-    * Union of sets and its probability:
-      * Union of several events is an event that contains all the outcomes from the original events without duplications
-      * $$P(A or B) = P(A) + P(B) - P(A and B)$$
+	* The sum of the probabilities of disjoint and collectively exhaustive events is one $$\sum P(\text{disjoint } \& \text{ collectively exhaustive events}) = 1$$
+Venn-Diagram
+* For disjoint events the intersection is zero by definition: $$P(A \text{ and } B) = 0$$
+* For not disjoint events:
+	* Assume the events are independent
+        * Intersection: $P(A) * P(B)$
+* Union of sets and its probability:
+	* Union of several events is an event that contains all the outcomes from the original events without duplications $$P(A \text{ or } B) = P(A) + P(B) - P(A \text{ and }B)$$
       * When the events don't share any outputs (disjoint) the intersection is equal to zero.
 # Conditional probability & independence
 ## Joint and marginal probabilities
