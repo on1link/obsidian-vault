@@ -15,3 +15,10 @@ mastery,
 autotelic purpose,
 autonomy, 
 and purpose.
+
+Spaced repetition 
+Sleep
+Practice Papers (with own answer and then fill the knowledge GAP)
+Active recall
+Pre-study (dont memorize)
+Mindmaps
