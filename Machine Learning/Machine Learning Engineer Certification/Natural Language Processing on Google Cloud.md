@@ -35,7 +35,7 @@
 	* CBOW uses surrounding words to predict a center word, whereas skip-gram uses a center word to predict surrounding words.
 # NLP models
 ## Quiz
-* What is the key feature to enable a "memory" of an [[RNN]] (recurrent neural network)?
+* What is the key feature to enable a "memory" of an [[Roam/Turing/RNN1]] (recurrent neural network)?
 	* An RNN uses a mechanism called hidden state to carry the previous information to the next learning iteration.
 * What is the coding in [[Keras]] to build the hidden layer of a [[GRU]] (gated recurrent unit) model?
 	* GRU(units)

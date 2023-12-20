@@ -9,7 +9,7 @@
     * The rest of the paper is organized as follows. In Sect. 2 we discuss the theoretical framework, outlining RNN, LSTM, Transformer, and Attention Mechanims. Next Sect. 3 the proposal is described. Sect.4 is for the experimental setting and results, and finally Sect. 5 to conclusions and futuro works.
   * # Theoritical Framework
     * # ARIMA
-    * ## [[Recurent Neural Networks]]
+    * ## [[RNN]]
       * A recurrent neural network (RNN) is specialized for learning a sequence of values $$ x^{(1)},..., x^{(T)}$$. Unlike traditional neural networks a RNN allows cyclical connections.
       * The Key point is that the recurrent connections allow a 'memory' of previous inputs to persist in the network's internal state, and thereby influence the network output.
       * A useful way to visualize RNNs is to consider the update graph formed by 'unfolding' the network along the input sequence figure[]. Viewing RNNs as unfolded graphs make it easier to generalize to network with more complex update dependencies.

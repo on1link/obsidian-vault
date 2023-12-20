@@ -11,8 +11,12 @@
             "id": "6c5f5c303542ffef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probability.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -46,8 +50,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistics/Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistics/Probability.md"
+              }
             }
           },
           {
@@ -160,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +187,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6c5f5c303542ffef",
+  "active": "1920a06a733198c7",
   "lastOpenFiles": [
+    "Roam/Turing/Vaswani, A.2017 Attention is all you need.md",
+    "Roam/Turing/RNN.md",
+    "Roam/Turing/Nacer, J 202X Transformer-based model first draft for wind speed forecasting.md",
+    "Roam/Turing/RNN1.md",
+    "Machine Learning/Deep Learrning/RNN1.md",
+    "Roam/Turing/Box;Jenkins1974 Some recent advances in forecasting and control.md",
+    "Machine Learning/one-hot encoding.md",
+    "2023-08-28.md",
+    "Roam/Turing/2021-12-06.md",
+    "Roam/Turing/Koutnik, J.2014 A clockwork rnn.md",
     "Misc/Learning More effectevly.md",
     "Roam/Turing/Time Series Analysis.md",
     "Roam/Turing/2022-12-03.md",
@@ -197,16 +215,6 @@
     "Roam/Turing/Malik, H.2016 Application of artificial neural network for long-term wind speed prediction.md",
     "Roam/Turing/2020-07-27.md",
     "Roam/Turing/2022-02-05.md",
-    "Roam/Turing/2021-07-15.md",
-    "Roam/Turing/2020-05-14.md",
-    "2023-10-06.md",
-    "Roam/Turing/Xiao, L2017 Multi-step wind speed forecasting based on a hybrid forecasting architecture and an improved bat algorithm.md",
-    "Machine Learning/Machine Learning Engineer Certification/ML Pipelines on Google Cloud/Continuous Training with multiple SDKs, KubeFlow & AI Platform Pipelines.md",
-    "Statistics/Descriptive Statistics.md",
-    "Statistics/Confidence Intervals.md",
-    "Statistics/Binomial Distribution.md",
-    "Roam/Turing/2021-11-25.md",
-    "Roam/Turing/Koutnik, J.2014 A clockwork rnn.md",
     "Captura de pantalla 2023-10-20 a la(s) 12.02.04.png",
     "Captura de pantalla 2023-10-20 a la(s) 11.58.20.png",
     "Captura de pantalla 2023-11-27 a la(s) 18.10.23.png",
